@@ -31,3 +31,21 @@ Because of the need for parads on Pennsylvania, they can't put proper protection
 Looking closer, most of the intersections on Pennsylvania advise turning cyclists just to cross in crosswalks - topologically this is practically identical to a bike box, but lets the city focus on their nice, presentable cocrete crossings.  Where no concrete exists, a slightly-unorthodox bike box is present.
 
 Another city with centre bike lanes is NYC.  Brooklyn sports centre-aligned bikeways on Sands St, leading to the bikeway on the Manhattan Bridge.  The ability to protect these centre bikeways shines here.  Again we see some mixed use of bike boxes for turning movements.
+
+##Design
+
+There are some challenges to York.  Without tearing out all the concrete and some traffic singals, the route will be slightly awkward.  We'll be repurposing the eastbound left-turn lanes, which are meant for left turns and so detour slightly out of the straight path.  Another challenge is the unprotected left turn lanes that exist for minor interesections - one for Rolf Gate, one for Oxford, and one for the Cannon->York U-turn.  Ultimately there's no good solution for those besides the same "yield to cyclists" sign we already see for left turns along the Cannon track.  The city used a more unorthodox structure on King and Paradise in Westdale which is a part of my regular commute, and it seems to be nothing but confusion.
+
+So we'll be consistent - on the eastbound side of York, the leftmost lane and the turn-lanes are now the cycle track, where a turn lane is present, we'll use the now-available next lane as the turn lane.
+
+Places for overhanging "Yield to cyclists" signs are marked with a yellow car symbol.
+
+#Drawbacks
+
+Sadly, some concrete will need to be reworked - to allow cyclists to turn, we need bike boxes... but there's a concrete and grass median in the way.  Adding ramps or flatening it is the best option, since the crosswalks aren't wide enough to work as half-cross-walks, half-bike-boxes.  Bike boxes are never ideal, since it means the cyclist has to wait for a full cycle to turn.  In this case, both left turns and right turns require a full cycle, cyclists even have to turn right to get into the leftwards bike box.
+
+Also, accessing minor roads will obviously invite cyclists to dart across traffic.  Being able to turn only at Locke and Queen isn't anybody's favourite option.  Particularly since York's median has lowered concrete ramps at minor intersections, cyclists will obviously feel invited to use those.  There's no good answer besides "wait for your gap".  Side-aligned bike lanes do not have this problem for right turns, but they double it for left ones.
+
+## Full Map
+
+The full map is available at [my maps](https://drive.google.com/open?id=10wVygA4_2wSnY_D1Vk5UABoQEeE&usp=sharing).
