@@ -20,4 +20,14 @@ This isn't some zany invention.  Other cities have noticed the obvious advantage
 
 ## Other cities with centre-aligned bike lanes
 
-The most notable street with a centre aligned cycle track 
+The most notable street with a centre aligned cycle track is easily one of the most notable streets in the world: Pennsylvania Avenue.  The street with the White House on it.
+
+Look at that jerk blocking the bike lane with his big limo.
+
+[Obama inauguration]!(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Barack_Obama_and_Michelle_Obama_in_inaugural_parade_01-21-13.jpg/1024px-Barack_Obama_and_Michelle_Obama_in_inaugural_parade_01-21-13.jpg) - image from Wikimedia Commons and is public-domain.
+
+Because of the need for parads on Pennsylvania, they can't put proper protections on ther bike lane.  York Boulevard is a lot of things, but not a parade route.  So we don't have that limitation.
+
+Looking closer, most of the intersections on Pennsylvania advise turning cyclists just to cross in crosswalks - topologically this is practically identical to a bike box, but lets the city focus on their nice, presentable cocrete crossings.  Where no concrete exists, a slightly-unorthodox bike box is present.
+
+Another city with centre bike lanes is NYC.  Brooklyn sports centre-aligned bikeways on Sands St, leading to the bikeway on the Manhattan Bridge.  The ability to protect these centre bikeways shines here.  Again we see some mixed use of bike boxes for turning movements.
