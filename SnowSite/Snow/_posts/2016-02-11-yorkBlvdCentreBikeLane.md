@@ -24,7 +24,7 @@ The most notable street with a centre aligned cycle track is easily one of the m
 
 Look at that jerk blocking the bike lane with his big limo.
 
-[Obama inauguration]!(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Barack_Obama_and_Michelle_Obama_in_inaugural_parade_01-21-13.jpg/1024px-Barack_Obama_and_Michelle_Obama_in_inaugural_parade_01-21-13.jpg) - image from Wikimedia Commons and is public-domain.
+![Obama inauguration](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Barack_Obama_and_Michelle_Obama_in_inaugural_parade_01-21-13.jpg/1024px-Barack_Obama_and_Michelle_Obama_in_inaugural_parade_01-21-13.jpg) - image from Wikimedia Commons and is public-domain.
 
 Because of the need for parads on Pennsylvania, they can't put proper protections on ther bike lane.  York Boulevard is a lot of things, but not a parade route.  So we don't have that limitation.
 
