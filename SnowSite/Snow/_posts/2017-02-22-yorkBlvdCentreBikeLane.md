@@ -7,7 +7,7 @@ title: York Boulevard Centre-aligned Bike Track
 
 # York Boulevard Centre-Aligned Bike lanes
 
-The city has told us that the York and Dundurn bike lanes may need to be removed as York and Dundurn must carry eastbound automotive traffic that will no longer fit on LRT-equipped King Street.
+The city has told us that the York and Dundurn bike lanes may need to be removed as York and Dundurn must carry westbound automotive traffic that will no longer fit on LRT-equipped King Street.
 
 Since everyone else has thrown a design out there for saving the York bike track, I thought I'd do the same.
 
