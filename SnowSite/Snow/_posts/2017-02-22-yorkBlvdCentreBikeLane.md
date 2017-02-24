@@ -17,6 +17,8 @@ Also, a feature very particular to York and Cannon; Cannon merges with York Boul
 
 ![picture of straight-through bike-lane at York/Queen/Cannon](/images/yorkcentrebikelanes_queennoboxes.jpg)
 
+<!--excerpt-->
+
 No need to cross York or Cannon to continue on the track.  Since the left-turn signals are already in a separate phase, that means *no* unexpected interactions between the bike lane and drivers for straight-through cyclists.  Of course, a "yield to bikes" sign is needed for the uncontrolled left-turn at the U-Turn slip road from Cannon to eastbound York.
 
 York also offers a particular advantage that its massive tree-lined grassy median will provide a refuge for cyclists; a bit of greenery and safe space in a ride that's otherwise a bit intense.
