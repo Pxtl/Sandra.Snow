@@ -1,7 +1,7 @@
 ---
 published: published
 layout: post
-category: Blog
+category: Programming
 title: XmlCommentMarkDownGenerator
 ---
 
