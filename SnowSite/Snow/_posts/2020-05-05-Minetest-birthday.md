@@ -97,7 +97,7 @@ wifi access-point and the Phillips Hue box.
 
 ![The Pi 4](/images/2020-05-05-Minetest-birthday/pi4.jpg)
 
-I imagine a really wierd version of Toy Story under there.
+I imagine a really weird version of Toy Story under there.
 
 For the curious:
 
@@ -105,11 +105,11 @@ For the curious:
 - 32GB microSD card (some name-brand one - never buy no-name SDs on Amazon,
   they'll only break your heart)
 - Official USB power-supply
-- Miuzei air-cooled case kit (includes heatsinks and fan)
+- Miuzei air-cooled case kit (includes heat-sinks and fan)
 
 The case was fun, despite being a no-name Chinese one.  We made two of these.
 My son has always fantasized about building a gaming PC so this got him screwing
-parts together and taping on the heatsinks onto the Pi4 devices.  The Miuzei
+parts together and taping on the heat-sinks onto the Pi4 devices.  The Miuzei
 only cost a two bucks more than the "official" Pi4 case and it looks better and
 has a nice silent fan to cool it for overclocking (I don't overclock this one
 but the other one I made for my brother is overclocked).
@@ -126,7 +126,7 @@ versions for running worlds. All sold separately.  I didn't want to have to
 figure out which version which kids had and figure out what to do there... And
 worse, the newer "bedrock" version is only really practically hosted in The
 Cloud.  It doesn't let me run the world on my own hardware, and I insist on
-ruling my childrens' game-worlds like an iron-fisted despot.
+ruling my children's game-worlds like an iron-fisted despot.
 
 So, I gave the hobby-made imitation a try... and found that after installing a
 "subgame" called [MineClone 2](https://forum.minetest.net/viewtopic.php?t=16407)
