@@ -12,7 +12,7 @@ for a birthday.  We'll call it an "after-action report".
 Basically, we had to handle the challenge of "how do you run a 10th birthday
 party with kids under social distancing"?  My answer was cupcakes, Zoom, a
 Raspberry Pi 4, and the open-source clone of Minecraft called
-[Minetest](https://minetest.net).
+[Minetest](https://www.minetest.net).
 
 <!--excerpt-->
 
@@ -120,7 +120,7 @@ My son named it Kosmos.  It runs our Minetest world.
 
 ## Setting Up Minetest
 
-[Minetest](https://minetest.net) is a free, open-source copy of Minecraft made
+[Minetest](https://www.minetest.net) is a free, open-source copy of Minecraft made
 by hobbyists.  For fans of Minecraft: yeah, it's a pale shadow of the original.
 The problem is that Minecraft has a proliferation of versions.  Tablet versions,
 two different PC versions, and two different incompatible server versions for
