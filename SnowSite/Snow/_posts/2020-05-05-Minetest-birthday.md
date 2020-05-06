@@ -211,7 +211,7 @@ the land:
 
 2. The world is backed up and we're reverting it after the party so anything you
    make is going bye-bye.  This was mostly to prevent any tantrums if my
-   daughters meticulously-constructed villages got obliterated.
+   daughters' meticulously-constructed villages got obliterated.
 
 3. How to pick skins.  This was, of course, their first question.
 
@@ -237,8 +237,8 @@ mouth to holler to her friends to come follow her and explore the underground
 minecart tracks.  I kept having to explain to them that they don't have to
 shout, their friends' ears are *two inches from their mouths*.
 
-I needed Tylenol fresh air after 20 minutes of that.  The kids went on for 2
-hours, and I have no idea how they did it.  One challenge I didn't expect was
+I needed a Tylenol and fresh air after 20 minutes of that.  The kids went on for
+2 hours, and I have no idea how they did it.  One challenge I didn't expect was
 that, because this was a completely open sandbox - no challenge or objective -
 the kids tended to follow just schoolyard rules of making up activities.  This
 creates the usual problem with all the kids clamoring for each others'
