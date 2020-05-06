@@ -142,6 +142,8 @@ rabbits, it's more than good enough.  Especially in just "Creative mode" which
 turns the game into more interactive lego than an actual game with objectives
 and challenges.
 
+![Minetest Group Screenshot](/images/2020-05-05-Minetest-birthday/screenshot_20200503_142525.jpg)
+
 The biggest challenge with minetest is the installation process: it doesn't have
 one.  The game is packed up as a raw zip file and you unzip it on your machine.
 You have to suss out that the executable lives in the "bin" folder (which makes
@@ -155,7 +157,7 @@ way: you just connect to my Minetest world and you'll automatically download
 Mineclone 2.  Along with the 90 or so skins I've installed into it for the kids
 to choose from.  And any other mods the server is running.
 
-![Minetest Group Screenshot](/images/2020-05-05-Minetest-birthday/screenshot_20200503_142525.jpg)
+![Minetest Group Screenshot](/images/2020-05-05-Minetest-birthday/birthday-banner.jpg)
 
 Mineclone 2/Minetest also has an in-game skin-picker and lets you choose your
 name.  This seems like a small thing but I've seen too many games of Minecraft
@@ -205,14 +207,14 @@ It was a hit.  I had to furiously type teleport commands as fast as I could to
 get the kids all into the same area to introduce them and give them the lay of
 the land:
 
-1) Explain how to play and the differences between Minetest and Minecraft.
+1. Explain how to play and the differences between Minetest and Minecraft.
    Everybody had it down inside of 10 minutes.
 
-2) The world is backed up and we're reverting it after the party so anything you
+2. The world is backed up and we're reverting it after the party so anything you
    make is going bye-bye.  This was mostly to prevent any tantrums if my
    daughters meticulously-constructed villages got obliterated.
 
-3) How to pick skins.  This was, of course, their first question.
+3. How to pick skins.  This was, of course, their first question.
 
 Also, apparently you can't teleport somebody out of a minecart in minetest.
 This was a problem when people would not know how to dismount (look down and
