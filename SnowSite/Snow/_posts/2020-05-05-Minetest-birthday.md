@@ -157,7 +157,7 @@ way: you just connect to my Minetest world and you'll automatically download
 Mineclone 2.  Along with the 90 or so skins I've installed into it for the kids
 to choose from.  And any other mods the server is running.
 
-![Minetest Group Screenshot](/images/2020-05-05-Minetest-birthday/birthday-banner.jpg)
+![Birthday Banner](/images/2020-05-05-Minetest-birthday/birthday-banner.jpg)
 
 Mineclone 2/Minetest also has an in-game skin-picker and lets you choose your
 name.  This seems like a small thing but I've seen too many games of Minecraft
