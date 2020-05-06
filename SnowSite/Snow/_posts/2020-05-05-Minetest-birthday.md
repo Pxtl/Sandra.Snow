@@ -18,12 +18,10 @@ Raspberry Pi 4, and the open-source clone of Minecraft called
 
 # Preamble
 
-So, my daughter is really into Minecraft, in typical sense that saying "really
-into" understates the situation.  I looked into getting Minecraft, but the
-challenge with Minecraft is that there is a different, separately purchased
-version of Minecraft for each platform and not all of them are compatible with
-each other.  Also, I tend to prefer software that I can rule like an iron-fisted
-overlord instead of trusting The Cloud, which now handles "modern" minecraft.
+So, my daughter is really into Minecraft, in the typical sense that saying
+"really into" understates the situation.  I looked into running the party on
+name-brand Minecraft, but for a variety of reasons (not all of them good) I
+decided to find an alternative.
 
 So, I looked into an open-source reimplementation of Minecraft called Minetest
 that I'd been studiously ignoring, created by hobbyists.  The good news was that
@@ -120,14 +118,15 @@ My son named it Kosmos.  It runs our Minetest world.
 
 ## Setting Up Minetest
 
-[Minetest](https://www.minetest.net) is a free, open-source copy of Minecraft made
-by hobbyists.  For fans of Minecraft: yeah, it's a pale shadow of the original.
-The problem is that Minecraft has a proliferation of versions.  Tablet versions,
-two different PC versions, and two different incompatible server versions for
-running worlds. All sold separately.  I didn't want to have to figure out which
-version which kids had and figure out what to do there... And worse, the newer
-"bedrock" version doesn't let me run the world on my own hardware, and I insist
-on ruling my childrens' game-worlds like an iron-fisted despot.
+[Minetest](https://www.minetest.net) is a free, open-source copy of Minecraft
+made by hobbyists.  For fans of Minecraft: yeah, it's a pale shadow of the
+original. The problem is that Minecraft has a proliferation of versions.  Tablet
+versions, two different PC versions, and two different incompatible server
+versions for running worlds. All sold separately.  I didn't want to have to
+figure out which version which kids had and figure out what to do there... And
+worse, the newer "bedrock" version is only really practically hosted in The
+Cloud.  It doesn't let me run the world on my own hardware, and I insist on
+ruling my childrens' game-worlds like an iron-fisted despot.
 
 So, I gave the hobby-made imitation a try... and found that after installing a
 "subgame" called [MineClone 2](https://forum.minetest.net/viewtopic.php?t=16407)
