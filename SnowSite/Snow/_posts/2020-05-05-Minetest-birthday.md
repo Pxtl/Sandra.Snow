@@ -164,7 +164,7 @@ knows who they are because it shows the wrong name.
 
 ## Setting Up Mumble
 
-Another server running on my little Pi4 is Mumble.  Mumble is a wonderful
+Another server running on my little Pi4 is [Mumble](https://www.mumble.info/).  Mumble is a wonderful
 open-source voicechat system designed for gaming.  It's fast, low-resource,
 low-latency and has a wonderful configuration wizard where it talks you through
 getting your computer's microphone configured just right to make sure all your
