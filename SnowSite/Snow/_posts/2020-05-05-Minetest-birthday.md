@@ -30,8 +30,8 @@ process was a lot to ask of parents.  So, a 2-part party was planned:
 
 1. First, a Zoom meeting to say happy-birthday and blow out the candles.
 
-2. Those who had gotten through the install-and-config process, a Minetest
-   sandbox for the kids to play in.
+2. For those parents who had gotten through the install-and-config process, a
+   Minetest sandbox for the kids to play in.
 
 # The Zoom Party
 
