@@ -74,9 +74,7 @@ raspi.
 
 Open a terminal and run the command.
 
-```
-ifconfig
-```
+    ifconfig
 
 will list your IP addresses and MAC addresses.  The you want `eth0` for wired,
 and `wlan0` for wireless.  The ipv4 address we're focusing on will be labeled
@@ -96,9 +94,7 @@ The important steps afterwards are to enable SSH and the VNC Server.
 
 Again, in the terminal type
 
-```
-sudo raspi-config
-```
+    sudo raspi-config
 
 This will launch a simple UI for editing settings.  Use in "interface options"
 enable SSH and VNC.  VNC will let you remote in for a GUI and SSH will let you
@@ -165,11 +161,10 @@ So, first, we need to let Raspbian know it's safe to talk to the Backports repo.
 
 In our terminal, we run the following:
 
-```
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E0B11894F66AEC98
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 7638D0442B90D010
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 8B48AD6246925553
-```
+    sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E0B11894F66AEC98
+    sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 7638D0442B90D010
+    sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 8B48AD6246925553
+
 
 I'm going to be honest, I don't know what it actually does in detail, and
 generally copying pasting sudo commands into your machine is a bad idea,
@@ -184,9 +179,7 @@ Next, we add the `buster-backports` repository to the registry of apt
 installation sources.  This mammoth command adds the configuration to connect to
 "buster-backports" into our sources list for installing software.
 
-```
-echo 'deb http://httpredir.debian.org/debian buster-backports main contrib non-free' | sudo tee -a /etc/apt/sources.list.d/debian-backports.list
-```
+    echo 'deb http://httpredir.debian.org/debian buster-backports main contrib non-free' | sudo tee -a /etc/apt/sources.list.d/debian-backports.list
 
 This script I can explain.  Skip this if you're experienced in the ways of
 Linux.  `echo 'deb http://yadda` just means "output the quoted text" the `|`
@@ -201,9 +194,7 @@ now install software from there.
 Now, we have to let the "apt" installation system know that there's the new
 source available to it, so we'll do
 
-```
-sudo apt-get update
-```
+    sudo apt-get update
 
 and finally we're ready to start installing software.
 
@@ -241,9 +232,7 @@ server, but for now you should meet them.
 of a file or folder to our service-user, who is named `Debian-minetest` of group
 `games`.  So to assign a file to `Debian-minetest`, we do
 
-```
-sudo chown Debian-minetest:games <filename>
-```
+    sudo chown Debian-minetest:games <filename>
 
 Optionally with a `--recursive` flag if you want to do it to every file in a
 directory-tree.
@@ -255,9 +244,7 @@ You'll notice we usually call commands with `-` parameters, but in the case of
 `chmod`, we use `+` parameters - this is something I have not gotten used to
 since it is *not* a thing in windows/powershell scripting.
 
-```
-sudo chmod +rwx <filename>
-```
+    sudo chmod +rwx <filename>
 
 This grants the owner **r**ead, **w**rite, and e**x**ecute permissions to a
 file.
@@ -280,24 +267,20 @@ sideways, you now have enough to unmangle a file permission or two.
 So, install minetest-server from the buster-backports source we just finished
 hooking into.
 
-```
-sudo apt-get -t buster-backports install minetest-server
-```
+    sudo apt-get -t buster-backports install minetest-server
 
 Then create and setup our config file.  That's where a lot of the meat will be
 happening - we've got the game installed, but our server is private and
 unsecured and all that.  We want something we can *control*.  My daughter and
 her friends are playing in there.
 
-```
-#unzip the starting config - I'm pretty sure this step is unnecessary and might ruin 
-#privileges on minetest.conf - only do this if /etc/minetest/minetest.conf wasn't created
-#automatically
-sudo zcat /usr/share/doc/minetest/minetest.conf.example.gz > /etc/minetest/minetest.conf
+    #unzip the starting config - I'm pretty sure this step is unnecessary 
+    #and might ruin privileges on minetest.conf .
+    #Only do this if /etc/minetest/minetest.conf wasn't created automatically
+    sudo zcat /usr/share/doc/minetest/minetest.conf.example.gz > /etc/minetest/minetest.conf
 
-#open the config up in the editor to get to work
-sudo nano /etc/minetest/minetest.conf
-```
+    #open the config up in the editor to get to work
+    sudo nano /etc/minetest/minetest.conf
 
 The file `/etc/minetest/minetest.conf` contains a pretty-well-annotated config
 of everything about our minetest server.  The only big gotcha is that you *must*
@@ -328,10 +311,8 @@ like `ctrl`+`w` to search, `ctrl`+`o` to save, `ctrl`+`x` to quit.
 
 Finally, our first chmod command:
 
-```
-#enable writing of the log file for all users so we can see what’s going on
-sudo chmod a+rw /var/log/minetest/minetest.log
-```
+    #enable writing of the log file for all users so we can see what’s going on
+    sudo chmod a+rw /var/log/minetest/minetest.log
 
 We need Minetest to be allowed to write to the minetest log file.  The "a" in
 that chmod means "all users", we're going to keep this simple.  I know you have
@@ -348,9 +329,7 @@ fingers and start it up.
 First, meet `systemctl`.  That's systemd's tool for you to manage services that
 it runs for you.
 
-```
-sudo systemctl start minetest-server
-```
+    sudo systemctl start minetest-server
 
 This means we let it rip.  For future reference, there's also `systemctl stop`
 and `systemctl restart` that do what they sound like.
@@ -383,9 +362,7 @@ friends.
 We're going to do a bit more tweaking of the minetest.conf, so let's stop the
 server for a minute with 
 
-```
-sudo systemctl stop minetest-server
-```
+    sudo systemctl stop minetest-server
 
 ... you're getting the hang of this right?  Remember, use ctrl-R to find old
 commands in the history so you're not typing that mouthful over and over again.
@@ -409,9 +386,7 @@ get all incoming UDP traffic coming to 30000 forwarded to that
 
 Now, let's start it back up.
 
-```
-sudo systemctl start minetest-server
-```
+    sudo systemctl start minetest-server
 
 The system will take a minute to start up - you can tail the log to check on its
 progress.  Give it a minute or two and then search of your `server-name` in the
