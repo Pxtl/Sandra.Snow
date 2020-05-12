@@ -20,12 +20,11 @@ somebody like me.  Somebody new to Linux but very comfy with Windows.
 
 - [2GB Raspberry Pi4 with official USB
   power-supply](https://www.buyapi.ca/product/raspberry-pi-4-model-b-2gb/)
-   - 32GB microSD card (some name-brand one; never buy no-name SDs on Amazon,
-     they'll only break your heart)
+- 32GB microSD card (some name-brand one; never buy no-name SDs on Amazon,
+  they'll only break your heart)
    - good brands: Kingston, Samsung, Patriot, etc.
 - [Miuzei air-cooled case kit (includes heat-sinks and
   fan)](https://www.amazon.ca/Miuzei-Raspberry-Cooling-Aluminum-Model/dp/B07WJ8KHS6)
-  
    - like all off-brand stuff on Amazon, individual listings are ephemeral, so
      you may have to search for a different listing. I paid $15CAD.
 - Ethernet cable
@@ -75,7 +74,7 @@ raspi.
 
 Open a terminal and run the command.
 
-```sh
+```
 ifconfig
 ```
 
@@ -97,7 +96,7 @@ The important steps afterwards are to enable SSH and the VNC Server.
 
 Again, in the terminal type
 
-```sh
+```
 sudo raspi-config
 ```
 
@@ -166,7 +165,7 @@ So, first, we need to let Raspbian know it's safe to talk to the Backports repo.
 
 In our terminal, we run the following:
 
-```sh
+```
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E0B11894F66AEC98
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 7638D0442B90D010
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 8B48AD6246925553
@@ -185,7 +184,7 @@ Next, we add the `buster-backports` repository to the registry of apt
 installation sources.  This mammoth command adds the configuration to connect to
 "buster-backports" into our sources list for installing software.
 
-```sh
+```
 echo 'deb http://httpredir.debian.org/debian buster-backports main contrib non-free' | sudo tee -a /etc/apt/sources.list.d/debian-backports.list
 ```
 
@@ -202,7 +201,7 @@ now install software from there.
 Now, we have to let the "apt" installation system know that there's the new
 source available to it, so we'll do
 
-```sh
+```
 sudo apt-get update
 ```
 
@@ -242,7 +241,7 @@ server, but for now you should meet them.
 of a file or folder to our service-user, who is named `Debian-minetest` of group
 `games`.  So to assign a file to `Debian-minetest`, we do
 
-```sh
+```
 sudo chown Debian-minetest:games <filename>
 ```
 
@@ -256,7 +255,7 @@ You'll notice we usually call commands with `-` parameters, but in the case of
 `chmod`, we use `+` parameters - this is something I have not gotten used to
 since it is *not* a thing in windows/powershell scripting.
 
-```sh
+```
 sudo chmod +rwx <filename>
 ```
 
@@ -290,7 +289,7 @@ happening - we've got the game installed, but our server is private and
 unsecured and all that.  We want something we can *control*.  My daughter and
 her friends are playing in there.
 
-```sh
+```
 #unzip the starting config - I'm pretty sure this step is unnecessary and might ruin 
 #privileges on minetest.conf - only do this if /etc/minetest/minetest.conf wasn't created
 #automatically
@@ -329,7 +328,7 @@ like `ctrl`+`w` to search, `ctrl`+`o` to save, `ctrl`+`x` to quit.
 
 Finally, our first chmod command:
 
-```sh
+```
 #enable writing of the log file for all users so we can see what’s going on
 sudo chmod a+rw /var/log/minetest/minetest.log
 ```
@@ -349,7 +348,7 @@ fingers and start it up.
 First, meet `systemctl`.  That's systemd's tool for you to manage services that
 it runs for you.
 
-```sh
+```
 sudo systemctl start minetest-server
 ```
 
@@ -384,7 +383,7 @@ friends.
 We're going to do a bit more tweaking of the minetest.conf, so let's stop the
 server for a minute with 
 
-```sh
+```
 sudo systemctl stop minetest-server
 ```
 
@@ -410,7 +409,7 @@ get all incoming UDP traffic coming to 30000 forwarded to that
 
 Now, let's start it back up.
 
-```sh
+```
 sudo systemctl start minetest-server
 ```
 
