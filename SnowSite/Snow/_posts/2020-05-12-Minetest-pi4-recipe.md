@@ -12,6 +12,8 @@ server from scratch, so I'm pretty novice at this.  I'm handy with a terminal
 console but only on Windows.  The intended reader of this article is... well,
 somebody like me.  Somebody new to Linux but very comfy with Windows.
 
+<!--excerpt-->
+
 # Hardware
 
 ## Pi Hardware
