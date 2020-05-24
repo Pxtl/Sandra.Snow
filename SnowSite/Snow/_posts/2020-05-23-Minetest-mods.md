@@ -7,7 +7,7 @@ title: Minetest Mods (rpi minetest-server part 3)
 Now that we've got our Minetest server built (see [previous
 entry](/2020/05/12/minetest-pi4-recipe/) ), now it's time to learn how to
 install mods and games into it, and how to run multiple instances of minetest.
-In particular, we're going to be installing Mineclone 2 and a pile of skins.
+In particular, we're going to be installing Mineclone 2.
 
 <!--excerpt-->
 
