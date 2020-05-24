@@ -2,7 +2,7 @@
 published: published
 layout: post
 category: Blog
-title: Minetest Birthday
+title: Minetest Birthday (rpi minetest-server part 1)
 ---
 
 Okay, this is part one of a multi-part... well, I guess we can't use the term
@@ -261,5 +261,5 @@ trying to figure out what game to try next.
 
 # Next Time
 
-Next post, I'll get into the weeds of the setup process and gotchas for getting
-these servers set up on a Pi4.  Recipes!  Linux!  Sudo all the things!
+Next post, [I'll get into the weeds of the setup process and gotchas for getting
+these servers set up on a Pi4.  Recipes!  Linux!  Sudo all the things!](/2020/05/12/minetest-pi4-recipe/)

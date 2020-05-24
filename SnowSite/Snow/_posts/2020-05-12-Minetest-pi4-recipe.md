@@ -2,15 +2,16 @@
 published: published 
 layout: post 
 category: Software 
-title: Minetest Pi4 Recipe
+title: Minetest Pi4 Recipe (rpi minetest-server part 2)
 ---
 
-Continuing from my previous article on my daughter's Minetest birthday party,
-here's how I built my Raspberry Pi 4 minetest server that powered the party.  To
-be clear: this is only my second time this century setting up a linux-based
-server from scratch, so I'm pretty novice at this.  I'm handy with a terminal
-console but only on Windows.  The intended reader of this article is... well,
-somebody like me.  Somebody new to Linux but very comfy with Windows.
+Continuing from my [previous article](/2020/05/05/minetest-birthday/) on my
+daughter's Minetest birthday party, here's how I built my Raspberry Pi 4
+minetest server that powered the party.  To be clear: this is only my second
+time this century setting up a linux-based server from scratch, so I'm pretty
+novice at this.  I'm handy with a terminal console but only on Windows.  The
+intended reader of this article is... well, somebody like me.  Somebody new to
+Linux but very comfy with Windows.
 
 <!--excerpt-->
 
@@ -399,4 +400,4 @@ our Mumble server, you want me to type chat into the console like a caveman?
 Still, at the end of this article, we've got something useful!  You and your
 friends can play vanilla Minetest game on your pi4 server now.
 
-Next time, more stuff.
+[Next time, more stuff.](/2020/05/23/2020-05-23-Minetest-mods/)
