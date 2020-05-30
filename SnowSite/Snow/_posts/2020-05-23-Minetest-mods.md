@@ -198,7 +198,7 @@ named `world`, right?  That is, the world located at
 
 ***WRONG***.
 
-Minetest-server by default *names* the folder world.  But what it actually runs
+Minetest-server by default *names* the folder "world".  But what it actually runs
 is "the only world folder in `/var/games/minetest-server/.minetest/worlds/`".
 What does that mean if there's 2 folders in
 `/var/games/minetest-server/.minetest/worlds/`?  Crashy crashy.  And we're going
@@ -286,4 +286,4 @@ And you're done!
 
 # Next Time
 
-Readyyyyyy toooooooo Mumble!
+[The skinny on skins.](/2020/05/30/2020-05-30-Mineclone2-skins/)
