@@ -23,14 +23,14 @@ collections of mods), but it only includes two skins by default. The skins are
 located in the `mineclone2` game folder under `mods/PLAYER/mcl_skins`, so on our
 Raspbian server it will be located at
 
-   /var/games/minetest-server/.minetest/games/mineclone2/mods/PLAYER/mcl_skins
+    /var/games/minetest-server/.minetest/games/mineclone2/mods/PLAYER/mcl_skins
 
 This is the root folder for the minetest skins mod.  Each skin requires 2 files
 and 1 optional file.  Each skin requires
 
-   textures/mcl_skins_character_N.png --the actual skin file
-   textures/mcl_skins_player_N.png --the preview of the skin file that you'll see in the picker
-   meta/mcl_skins_character_N.txt --the text description of the skin (optional)
+    textures/mcl_skins_character_N.png --the actual skin file
+    textures/mcl_skins_player_N.png --the preview of the skin file that you'll see in the picker
+    meta/mcl_skins_character_N.txt --the text description of the skin (optional)
 
 where N is the skin's number.  The skins are sequentially numbered wih no gaps -
 so I had skins 1 through 94.  If you have a gap in the number mcl_skins will
