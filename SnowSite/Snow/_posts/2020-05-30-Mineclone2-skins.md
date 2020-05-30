@@ -36,7 +36,7 @@ where N is the skin's number.  The skins are sequentially numbered wih no gaps -
 so I had skins 1 through 94.  If you have a gap in the number mcl_skins will
 stop searching.
 
-![example files](images/2020-05-30-Mineclone2-skins/files.jpg)
+![example files](/images/2020-05-30-Mineclone2-skins/files.jpg)
 
 ## The meta txt file
 
