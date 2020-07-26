@@ -32,7 +32,7 @@ and 1 optional file.  Each skin requires
  - `textures/mcl_skins_player_N.png` -- the preview of the skin file that you'll see in the picker
  - `meta/mcl_skins_character_N.txt` -- the text description of the skin (optional)
 
-where N is the skin's number.  The skins are sequentially numbered wih no gaps -
+where N is the skin's number.  The skins are sequentially numbered with no gaps -
 so I had skins 1 through 94.  If you have a gap in the number mcl_skins will
 stop searching.
 

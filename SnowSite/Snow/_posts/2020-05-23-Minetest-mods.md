@@ -272,11 +272,18 @@ etc.
 
 There's a simple command to create a 2nd server-instance:
 
-    systemctl start minetest-server@2-mineclone-survival.service
+    sudo systemctl start minetest-server@2-mineclone-survival.service
 
 You'll notice that I've used "2-mineclone-survival" again.  That name *must*
 match the name of your conf file.  So if you named your 2nd conf file "fred"?
 `minetest-server@fred.service`.
+
+edit (2020-07-26): I missed a step, apparently.  I noticed my server wasn't
+starting on restart!  So there's an extra step here - we have to *enable* the
+service, which is analogous to "autostart" on Windows.  Enable means start on
+startup.
+
+    sudo systemctl enable minetest-server@2-mineclone-survival.service
 
 Anyhow, that *should* be it.  2nd world is up and running.  Go see the server
 browser and you should find two worlds on your address, one on 30000 and one on

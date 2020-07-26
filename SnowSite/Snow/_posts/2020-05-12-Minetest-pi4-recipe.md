@@ -400,4 +400,4 @@ our Mumble server, you want me to type chat into the console like a caveman?
 Still, at the end of this article, we've got something useful!  You and your
 friends can play vanilla Minetest game on your pi4 server now.
 
-[Next time, more stuff.](/2020/05/23/2020-05-23-Minetest-mods/)
+[Next time, more stuff.](/2020/05/23/Minetest-mods/)
