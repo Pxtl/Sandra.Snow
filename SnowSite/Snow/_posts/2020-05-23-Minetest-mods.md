@@ -293,4 +293,4 @@ And you're done!
 
 # Next Time
 
-[The skinny on skins.](/2020/05/30/2020-05-30-Mineclone2-skins/)
+[The skinny on skins.](/2020/05/30/mineclone2-skins/)
