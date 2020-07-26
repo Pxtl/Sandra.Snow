@@ -151,7 +151,7 @@ user, `Debian-minetest` of group `games`.
 
 The `-R` means `--recursive`.  Now the world
 
-     sudo chown Debian-minetest:games ./games/world -R
+     sudo chown Debian-minetest:games ./worlds/world -R
 
 And now we're ready.   Let's restart the server.
 
@@ -194,7 +194,7 @@ worlds, we're going to run a second minetest-server instance.
 
 Okay, first we need to get into the weeds.  By default minetest runs the world
 named `world`, right?  That is, the world located at
-`/var/games/minetest-server/.minetest/worlds/2-mineclone-survival/`, right?
+`/var/games/minetest-server/.minetest/worlds/world/`, right?
 
 ***WRONG***.
 
