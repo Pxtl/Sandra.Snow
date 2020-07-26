@@ -7,8 +7,8 @@ git add .
 git commit -m $message
 git push
 
-pushd ..\Pxtl.github.io\
-git add .
-git commit -m $message
-git push
-popd
+Push-Location ..\Pxtl.github.io\
+    git add .
+    git commit -m $message
+    git push
+Pop-Location
