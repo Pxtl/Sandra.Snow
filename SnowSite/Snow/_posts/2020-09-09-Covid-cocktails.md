@@ -57,6 +57,10 @@ and used a flavorful Jamaican rum instead of a simple white one. Amazing.
 Seriously, why didn't you people tell me that fresh lime juice with a little
 sugar tastes so amazing?
 
+Relevant "How To Drink" video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q_b7xow1Ck4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Other day 1 cocktail was a nice **old fashioned**. I used my fave Crown Royal
 rye, which has powerful flavor... I used Greg's cheat (Greg is the How to Drink
 guy) of simple syrup & dash of aromatic bitters instead of bitters-soaked
@@ -71,10 +75,18 @@ Tasty.
 
 An old fashioned is a fun easy upgrade for a rye drinker.  Strongly recommend.
 
+Other "How To Drink" video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DLk67oMq8Og" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Day 2
 
 Day 2 of COVID cocktails: **the Manhattan**.  Because I bought the wrong kind of
 vermouth by accident.
+
+How To Drink vid:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MFs4hA2DriU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Crown Royal rye, Dillon's sweet vermouth, and some bitters and a cherry.  This
 was... less successful.  Wife found it vile.  Seemed like a waste of good rye
@@ -107,6 +119,10 @@ disappear, but they're subtle against lemon.
 I'm going to admit: I ran out of fresh lemon halfway through the 2nd drink and
 used bottled lemon juice... and honestly can't tell the difference.  I guess my
 palette is crap.
+
+How To Drink:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Zik8fgGUOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Days 4 and 5
 
@@ -190,6 +206,10 @@ not too sweet, an explosion of bitter and sour lime flavors.
 
 ![gimlet picture](/images/2020-09-09-Covid-cocktails/gimlet.jpg)
 
+How To Drink:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iVC64ad8SMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Day 9
 
 Day 9 of COVID Cocktails... I wanted to get creative - building the Difford's
@@ -245,6 +265,8 @@ I think I overshook it because it was all fizz until it settled.
 The taste was heavenly.  Wifey turned up her nose at it between the bitters and
 the egg white.  Her loss.
 
+(HTD vid is already upthread for the daiquiri)
+
 ## Day 11
 
 Day 11 COVID cocktail: a nice boring **Tom Collins**.
@@ -264,6 +286,10 @@ this" and added syrup and orange bitters.
 Maybe I used too much club soda, I dunno.  Or maybe if I had a gin I liked
 better than Tanqueray, which is fine but its flavors aren't that great to taste
 diluted with lemon and a splash of sugar.
+
+HTD:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bK_kBsqqA0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Day 12
 
