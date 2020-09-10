@@ -5,6 +5,16 @@ category: Life
 title: Covid Cocktails
 ---
 
+So thanks to watching too many "How to Drink" Youtube videos, I've gotten into
+mixing cocktails.  We're all drinking at home anyways, right?
+
+So I made approximately one cocktail per day, mostly things I've never tried
+before.
+
+<!--excerpt-->
+
+# Thoughts
+
 On cocktails, goals, and fun: In a pause on my exploration in mixing drinks,
 some notes:  
 
@@ -12,8 +22,6 @@ some notes:
    plan my fun, I'll spend all day doom-scrolling Twitter, or 4AM Civ. I've
    kicked a bad Reddit habit many times - in the sense that "quitting smoking is
    easy, I've done it lots of times".
-
-<!--excerpt-->
 
 2. So, my goal was 2 weeks, 1 new cocktail per day.  I fell a bit short but I
    still feel like I learned a lot (don't buy things that don't come in small
@@ -35,15 +43,11 @@ some notes:
 
 If you're a gin drinker: get some Rose's Lime Cordial.  Gimlet.  OMG.
 
+What follows is my detailed 12 days of notes on the subject.
+
 # The 12 Days of Cocktails
 
 ## Day 1
-
-So thanks to watching too many "How to Drink" Youtube videos, I've gotten into
-mixing cocktails.  We're all drinking at home anyways, right?
-
-So each day, I'm making a new cocktail or two, mostly things I've never tried
-before.
 
 **Day 1 cocktail was a traditional Cuban-style daiquiri** for my wife. No
 blender. Lime, rum, and simple syrup.
@@ -221,7 +225,7 @@ But Lindsey loved it!  So I should take my victories where I find them.
 
 ## Day 10
 
-Day 10 of COVID Cocktails: the whiskey sour... I'd been scared to make this
+Day 10 of COVID Cocktails: the **whiskey sour**... I'd been scared to make this
 because of the raw egg white... worth the risk.  Sooooo goooood.
 
 I used Greg from How To Drink's recipe for this.
@@ -282,7 +286,7 @@ chocolate on top just to make it look more like a cocktail.
 
 # Conclusions
 
-** My favourites, overall**: Obviously, the Old Fashioned and the Gimlet, as
+**My favourites, overall**: Obviously, the Old Fashioned and the Gimlet, as
 above - but the Old Fashioned is more a treat for somebody who's already a
 whiskey-drinker.  The Whiskey Sour blew my mind.
 
