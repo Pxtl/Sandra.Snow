@@ -39,9 +39,9 @@ some notes:
 
 5. If you're already a whiskey drinker, an Old Fashioned is an easy upgrade. Try
    it. Angostura aromatic bitters are available in every grocery store and are
-   basically a spice-mix for cocktails, go get some. 
-
-If you're a gin drinker: get some Rose's Lime Cordial.  Gimlet.  OMG.
+   basically a spice-mix for cocktails, go get some.  
+   
+   If you're a gin drinker: get some Rose's Lime Cordial.  Gimlet.  OMG.
 
 What follows is my detailed 12 days of notes on the subject.
 
