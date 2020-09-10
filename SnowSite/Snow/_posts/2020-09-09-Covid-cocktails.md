@@ -179,7 +179,7 @@ didn't fill the glass well.
 ![Harvey Wallbanger
 picture](/images/2020-09-09-Covid-cocktails/Harvey-Wallbanger.jpg)
 
-https://www.diffordsguide.com/cocktails/recipe/936/harvey-wallbanger
+[https://www.diffordsguide.com/cocktails/recipe/936/harvey-wallbanger](https://www.diffordsguide.com/cocktails/recipe/936/harvey-wallbanger)
 
 ## Day 8
 
@@ -194,7 +194,7 @@ not too sweet, an explosion of bitter and sour lime flavors.
 
 Day 9 of COVID Cocktails... I wanted to get creative - building the Difford's
 guide "**Key Lime Pie #3**" but with some substitutions based on ingredient
-availability. https://www.diffordsguide.com/cocktails/recipe/1103/key-lime-pie-3
+availability. [https://www.diffordsguide.com/cocktails/recipe/1103/key-lime-pie-3](https://www.diffordsguide.com/cocktails/recipe/1103/key-lime-pie-3)
 
 So I did
 
