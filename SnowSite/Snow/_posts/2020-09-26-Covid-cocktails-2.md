@@ -8,9 +8,11 @@ title: Covid Cocktails 2
 Continuing on from my previous round, I've done another 14 days of cocktails.
 This time it's a more '70s theme.
 
+![Covid cocktails 2 collage](/images/2020-09-26-Covid-cocktails-2/Covid-cocktails-2-collage-1024.jpg)
+
 <!--excerpt-->
 
-# The ~~12~~14 Days of Cocktails
+# 14 Days of Cocktails
 
 ## Day 1
 
@@ -312,6 +314,8 @@ Came out a complex and tasty citrus/pom whiskey sour.  Enjoyed it.
 - (optional) 2 oz vodka for "dirty" 
 
 Build in a Collins glass full of ice, stir.
+
+![Shirley Temple](/images/2020-09-26-Covid-cocktails-2/Shirley-Temple.jpg)
 
 Easy to make, easy to drink.
 
