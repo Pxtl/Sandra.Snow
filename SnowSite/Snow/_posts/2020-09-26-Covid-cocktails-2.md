@@ -236,10 +236,12 @@ recipe, by way of How To Drink.
 ![syrups](/images/2020-09-26-Covid-cocktails-2/syrups.jpg)
 
 Note I used the h2d approach that bottled juice is fine and boiling is okay.
-The how to drink recipe vid is here:  https://m.youtube.com/watch?v=qTF7QkIkns8
+The how to drink recipe vid is here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qTF7QkIkns8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pomegranate juice, pomegranate concentrate, orange flower water, and sugar.
-Picone Fine Foods (https://www.piconefinefood.ca/) was my go-to for these more
+[Picone Fine Foods](https://www.piconefinefood.ca/) was my go-to for these more
 obscure ingredients.
 
 Oh and on orgeat, the other main syrup?  It sounds super complicated so I'm just
