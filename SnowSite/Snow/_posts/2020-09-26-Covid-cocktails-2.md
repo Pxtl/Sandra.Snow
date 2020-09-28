@@ -226,7 +226,7 @@ grenadine, and orgeat. Two are trivial to make: boil a cup of water and add
 between 1 and 2 cups sugar, mix till dissolved, then bottle. White sugar for
 simple, demerara for demerara.
 
-https://jeffreymorgenthaler.com/how-to-make-your-own.../ 
+[https://jeffreymorgenthaler.com/how-to-make-your-own-grenadine/](https://jeffreymorgenthaler.com/how-to-make-your-own-grenadine/)
 
 Grenadine is more complicated because of disagreement about what it is. Modern
 grenadine is vaguely fruit flavored corn syrup with bright red colouring.
@@ -252,7 +252,7 @@ Morning Sunburst, but skipping freezing the OJ because who has the time?
 - 0.5 oz simple syrup  
 - a drop vanilla
 
-https://www.theworktop.com/.../orange-juice-brunch-mocktail/
+[https://www.theworktop.com/breakfast-brunch-recipes/orange-juice-brunch-mocktail/](https://www.theworktop.com/breakfast-brunch-recipes/orange-juice-brunch-mocktail/)
 
 ![morning sunburst](/images/2020-09-26-Covid-cocktails-2/morning-sunburst.jpg)
 
