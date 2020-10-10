@@ -98,7 +98,8 @@ predecessors.  Everything Is Fine.
 Did I get it all?  Is that the lay of the land? Because this collectively seems
 inexcusable.
 
-In light of all this, a mail I'm drafting.  Corrections appreciated.
+In light of all this, a mail I'm drafting.  I'm planning to send it later this
+weekend.  Corrections appreciated.
 
 # My letter
 
