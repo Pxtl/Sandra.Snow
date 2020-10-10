@@ -54,7 +54,7 @@ because it contained private info, and he sent it anyways. [Details of the
 document and the redactions are here (thanks Martin
 Kuplēns-Ewart)](https://twitter.com/mkuplens/status/1311673941790949378).
 
-![image of Kroetsch document comparing redactions](/images/2020-10-10-integrity-commissioner/Kroetsch-document-censored-and-original.jpg)
+![image of Kroetsch document comparing redactions](/images/2020-10-10-integrity-commissioner/Kroetsch-letter-censored-and-original.jpg)
 
 As described in the Twitter thread, looking at the contents of this document, and
 the redacted form that the clerk released, I don't see any private information.
@@ -115,7 +115,7 @@ tried to inform the public of legitimate serious concerns, in a fashion that,
 examining the document, is very respectful of privacy.  The same information was
 publicized freely elsewhere.
 
-![image of Kroetsch document comparing redactions](/images/2020-10-10-integrity-commissioner/Kroetsch-document-censored-and-original.jpg)
+![image of Kroetsch document comparing redactions](/images/2020-10-10-integrity-commissioner/Kroetsch-letter-censored-and-original.jpg)
 
 After reviewing the [details of the document and the redactions here (thanks
 Martin Kuplēns-Ewart)](https://twitter.com/mkuplens/status/1311673941790949378),
