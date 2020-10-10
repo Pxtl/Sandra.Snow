@@ -19,6 +19,8 @@ been specifically told exactly where and when to be.  The police defend this
 because Pride's leadership had asked the police not to patrol the interior of
 the event (the violence was on the edge of the park).
 
+<!--excerpt-->
+
 So Mr. Kroetsch has established that he's willing to fight city hall, for
 apparently good reasons. Then you've got the Integrity Commissioner, a lawyer
 appointed and paid by council, who is ostensibly supposed to monitor council
