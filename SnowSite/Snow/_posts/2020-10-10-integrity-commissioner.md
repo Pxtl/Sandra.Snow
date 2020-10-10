@@ -7,7 +7,9 @@ title: Council and the Integrity Commissioner
 
 Okay, so let me just make sure I'm getting the latest City of Hamilton council
 misadventure straight.  Help me out here if I've got any details wrong.  It's
-been hard to keep track of this overlaid in all the pandemic pandemonium.
+been hard to keep track of this overlaid in all the pandemic pandemonium.  Once
+I get it all straight, I'm planning on sending the letter at the bottom of this
+post.
 
 Cameron Kroetsch is a local activist who is an unpaid volunteer on the city's
 LGBT advisory committee.  He's butt heads with the city before, like a while
@@ -169,4 +171,4 @@ Regards,
 
 Martin Zarate
 
-Hamilton Ward 1 Constituent.
+Hamilton Ward 1 Constituent
