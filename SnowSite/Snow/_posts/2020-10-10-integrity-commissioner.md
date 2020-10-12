@@ -128,8 +128,8 @@ information was publicized freely elsewhere, and in greater detail.
 After reviewing the [details of the document and the redactions here (thanks
 Martin Kuplēns-Ewart)](https://twitter.com/mkuplens/status/1311673941790949378),
 it is impossible to interpret the clerk's actions anything but a cover-up,
-rather than a responsible attempt to redact P.I.I. that was not present in the
-document, but was already available on the city's own website! And this council
+rather than a responsible attempt to redact P.I.I. that was *not present in the
+document*, but was already available on the city's own website! And this council
 has already been plagued by multiple embarrassing cover-ups. But instead of
 reaffirming a commitment to transparency, we instead see the council abusing the
 role of the I.C.'s office to silence him? How is there no interest in trying to
@@ -167,7 +167,7 @@ This term of council has been intensely disappointing because even
 councilmembers and a mayor I used to have a great deal of respect for have let
 us all down. Even the councilmembers I didn't really agree with, I appreciated
 the diversity of perspectives they brought to council. I can only hope that, at
-least for some members of council, that this was a rash decision where they were
+least for *some* members of council, that this was a rash decision where they were
 not in full possession of the facts of the case at the time of their vote to
 support the I.G.'s report.
 
