@@ -9,7 +9,7 @@ Okay, so let me just make sure I'm getting the latest City of Hamilton council
 misadventure straight.  It's been hard to keep track of this overlaid in all the
 pandemic pandemonium.  
 
-**edit**: Thanks to Ryan McGreal for helping me out with some details.
+**edit (2020-10-12)**: Thanks to Ryan McGreal for helping me out with some details.
 
 Cameron Kroetsch is a local activist who is an unpaid volunteer on the city's
 LGBT advisory committee.  He's butt heads with the city before, like when said
