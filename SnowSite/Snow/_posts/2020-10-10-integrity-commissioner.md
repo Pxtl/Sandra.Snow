@@ -117,58 +117,57 @@ With COVID and Trump dominating the news, it's difficult to keep track of
 Council goings-on, but what I've heard about council and the integrity
 commissioner is very concerning.
 
-When the civilian oversight of the police board is being undermined, and known
-white nationalist extremist leader was working at city hall, Cameron Kroetsch
-tried to inform the public of legitimate serious concerns, in a fashion that,
-examining the document, is very respectful of privacy.  The same information was
-publicized freely elsewhere, and in greater detail.
+When the civilian oversight of the police board was being undermined, and a
+known white nationalist extremist leader was working at city hall, Cameron
+Kroetsch tried to inform the public of legitimate serious concerns, in a fashion
+that, examining the document, is very respectful of privacy. The same
+information was publicized freely elsewhere, and in greater detail.
 
 ![image of Kroetsch document comparing redactions](/images/2020-10-10-integrity-commissioner/Kroetsch-letter-censored-and-original.jpg)
 
 After reviewing the [details of the document and the redactions here (thanks
 Martin Kuplēns-Ewart)](https://twitter.com/mkuplens/status/1311673941790949378),
 it is impossible to interpret the clerk's actions anything but a cover-up,
-rather than a responsible attempt to redact P.I.I. that was *not present in the
-document*, but was already available on the city's own website! And this council
+rather than a responsible attempt to redact P.I.I. that was not present in the
+document, but was already available on the city's own website! And this council
 has already been plagued by multiple embarrassing cover-ups. But instead of
 reaffirming a commitment to transparency, we instead see the council abusing the
-role of the I.C.'s office to silence him?  How is there no interest in trying to
-be better?  After everything that's happened, I'd think that council would make
+role of the I.C.'s office to silence him? How is there no interest in trying to
+be better? After everything that's happened, I'd think that council would make
 at least a cursory effort to be above reproach.
 
 Regardless of how you may feel about Mr. Kroetsch, it seems impossible to
-reasonably see him in the wrong on this.  And yet, Council abruptly expanded the
+reasonably see him in the wrong on this. And yet, Council abruptly expanded the
 role of the I.C. to cover non-councilmembers and then the case of Mr. Kroetsch
 jumped the queue over numerous legitimate claims against councilmembers (and
 anybody who follows the Council news on even a cursory basis knows there are
-many numerous legitimate complaints about councilmembers' ethics).  What is the
-last line of defense here?  What is the responsible way to disclose this
-information, to protect the Hamiltonian public?  Because if council is more
+many numerous legitimate complaints about councilmembers' ethics). What is the
+last line of defense here? What is the responsible way to disclose this
+information, to protect the Hamiltonian public? Because if council is more
 committed to cover-ups than justice and community safety, and the clerk and the
 I.C. are committed to supporting them, then it looks from the outside like the
 entire tree is rotten, and Mr. Kroetsch did the exact right thing in ignoring an
 absurd instruction.
 
-The I.C. is being used to remove a pesky thorn from the side of
-council. This is blatantly political.
+The I.C. is being used to remove a pesky thorn from the side of council. This is
+blatantly political.
 
-Meanwhile, when the kind of action that is *supposed* to draw the attention of
-the I.C. happens, what to we hear?  [Examples are
-endless](https://www.chch.com/a-kitchener-business-has-filed-a-complaint-against-hamilton-councillor-sam-merulla/),
-but the most recent event is the mayor going to the Premiere to fight for the
-controversial Commonwealth games bid without council direction.  Why do we even
-have an Integrity Commissioner if the office is simply going to be used as a
-mouthpiece for council?
+Meanwhile, when the kind of action that is supposed to draw the attention of the
+I.C. happens, what do we hear? Examples are endless, but the most recent event
+is the mayor going to the Premiere to fight for the controversial Commonwealth
+games bid without council direction. Why do we even have an Integrity
+Commissioner if the office is simply going to be used as a mouthpiece for
+council?
 
 And now councillor Whitehead is using the I.C. to threaten the HCCI - completely
-brazenly, in public, on Twitter!  This is the culture of total impunity you've
-all created.  I hope you're proud of yourselves.
+brazenly, in public, on Twitter! This is the culture of total impunity you've
+all created. I hope you're proud of yourselves.
 
 This term of council has been intensely disappointing because even
 councilmembers and a mayor I used to have a great deal of respect for have let
-us all down.  Even the councilmembers I didn't really agree with, I appreciated
-the diversity of perspectives they brought council.  I can only hope that, at
-least for *some* members of council, that this was rash decision where they were
+us all down. Even the councilmembers I didn't really agree with, I appreciated
+the diversity of perspectives they brought to council. I can only hope that, at
+least for some members of council, that this was a rash decision where they were
 not in full possession of the facts of the case at the time of their vote to
 support the I.G.'s report.
 
