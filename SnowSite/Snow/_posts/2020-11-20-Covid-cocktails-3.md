@@ -12,12 +12,7 @@ Also, Collective Arts gin is pretty expensive as London dry gins go, but I
 bought myself a bottle as a treat... and then my wife bought me another bottle
 as a birthday present.  So I have a lot of gin to use.
 
-With that in mind, this series has a more martini-oriented bent.
-
-Seriously though, throw a bottle and a glass in the freezer and pour an ice cold
-glass straight and that stuff is delectable.
-
-![Covid cocktails 2 collage](/images/2020-11-20-Covid-cocktails-3/Covid-cocktails-3-collage-1024.jpg)
+![Covid cocktails 3 collage](/images/2020-11-20-Covid-cocktails-3/Covid-cocktails-3-collage-1024.jpg)
 
 <!--excerpt-->
 
@@ -55,10 +50,14 @@ bottle open.
 I figured I should get at least one Italian amaro, and patriotism made me pick
 Fernet Branca because it's big in Argentina.
 
+Fernet is commonly drunk as a short shot digestif - like an after-dinner mint,
+so before mixing with it I thought I'd give it a try straight.
+
 ...
 
-Straight up it tastes like dentist's polishing paste, but without sweetener.
-Concentrated mint and herb. 
+It tastes like dentist's polishing paste, but without sweetener. I'm
+not kidding, it's *powerful*. Concentrated mint and herb and no sugar to help it
+go down.
 
 So, in Argentina the standard club drink is **Fernet con Coca**, which is Fernet
 Branca and coke.
@@ -209,7 +208,8 @@ Shake with ice, pour to a chilled glass, garnish with a lime wheel.
 
 Comes out complex and fruity but very dry and boozy.  I probably put too much
 lime.  It grew on me as I got further down the glass, but overall I probably
-won't mix this again.
+won't mix this again.  Collective Arts gin probably isn't a good fit for this
+either - a more mix-y gin would go better.
 
 ## Day 8
 
@@ -395,7 +395,9 @@ going to be using the heck out of this in summer.
 I've been having a good time exploring new flavors here.  I'm happy I had good
 uses for the gut-punch powerful flavor of the Fernet Branca, especially.  Also,
 Dolin vermouth is so nice I've been having it straight once in a while as a
-night-cap.
+night-cap.  And the Collective Arts artisan gin is wonderful (albeit expensive).
+It's probably to mix it like I have, the gin tastes wonderful straight after a
+good chill in the freezer.
 
 There were a lot of good hits in this round.  Stand-out favorite was the
 **Patriota**, but I definitely enjoyed the **gin martini**, **el presidente**,
