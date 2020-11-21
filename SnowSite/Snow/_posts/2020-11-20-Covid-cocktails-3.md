@@ -99,12 +99,15 @@ and I don't see what the olive adds *at all*, albeit I used the wrong kind
 (Kalamata instead of a stuffed queen). At the very least I need proper garnish
 skewers.
 
+Basically everything I did on this was dumb and wrong.  My FB followers informed
+me of that and they were correct.
+
 ### Addendum
 
 I tried this again later, and it went much better.
 
-In honor of... wait, no, he was an unrepentant wifebeater.  To mark the passing
-of Sir Sean Connery: a dry martini.
+In honor of... wait, no, he was an unrepentant wife-beater.  To mark the passing
+of Sir Sean Connery: I made another dry martini.
 
 - 2.5 oz London dry gin
 - 0.5 oz vermouth
