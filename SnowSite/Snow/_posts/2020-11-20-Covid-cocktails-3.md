@@ -83,8 +83,8 @@ It's not without its appeal, but damn.
 
 ## Day 3
 
-A nice normal **gin martini**.  I attempted this one because I wanted to get the
-seminal classic right... my first attempt, I half-assed and it was bad. 
+A nice normal **gin martini**.  I attempted this one twice because I wanted to
+get the seminal classic right... my first attempt, I half-assed and it was bad. 
 
 3:1 ratio of Collective Arts gin and dry vermouth, and an olive.
 
@@ -373,8 +373,8 @@ syrup, because it's handy and it's going to dissolve anyways.
 
 ## Day 14
 
-Wifey bought me a beautiful metal mug for my birthday so I'm doing the Moscow
-Mule for my finale.
+Wifey bought me a beautiful metal mug for my birthday so I'm doing the **Moscow
+Mule** for my finale.
 
 - 2 oz vodka
 - 1 oz lime
