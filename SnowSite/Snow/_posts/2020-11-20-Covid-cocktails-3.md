@@ -56,7 +56,7 @@ so before mixing with it I thought I'd give it a try straight.
 ...
 
 It tastes like dentist's polishing paste, but without sweetener. I'm
-not kidding, it's *powerful*. Concentrated mint and herb and no sugar to help it
+not kidding, it's *powerful*. Concentrated mint and herb and very little sugar to help it
 go down.
 
 So, in Argentina the standard club drink is **Fernet con Coca**, which is Fernet
@@ -292,7 +292,7 @@ Creamsicle and lime.
 
 ## Day 11
 
-El Presidente, an old Cuban cocktail from pre-revolution days.
+**El Presidente**, an old Cuban cocktail from pre-revolution days.
 
 - 1.5 oz white rum
 - 0.75 oz triple sec
