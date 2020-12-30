@@ -438,10 +438,11 @@ excellent.
 
 It had separated into a yellow spongy foam on top of liquid, but easily whisked
 back together.  Poured to a glass, added my shot.  It was at once thicker and
-lighter than its store-bought counterparts.  Very tasty.
+lighter than its store-bought counterparts, and less cloyingly-sweet.  The rum
+nicely complemented the creamy egg flavors.
 
 On the other hand, I was queasy for days... but that could be general Christmas
-dinner self-destruction.
+dinner self-destruction.  Again, caveat bibitor.
 
 ### Basics with Babish / Greg from How To Drink Crossover video
 
