@@ -15,7 +15,7 @@ For the winter holiday, I decided to do another round of Covid Cocktails.  This
 time I'm trying to do something thematic - a focus on savory cocktails... and of
 course, some festive ones too, because it's that time of the year.
 
-![Covid cocktails 4 collage](/images/2020-11-20-Covid-cocktails-3/Covid-cocktails-4-collage-1024.jpg)
+![Covid cocktails 4 collage](/images/2020-12-30-Covid-cocktails-4/Covid-cocktails-4-collage-1024.jpg)
 
 <!--excerpt-->
 
@@ -58,7 +58,7 @@ good tequila and gin.  But it's nice.
 
 ### Behind the Bar with Cara Devine Video
 
-<iframe width="1775" height="837" src="https://www.youtube.com/embed/t-iP0UNlwZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t-iP0UNlwZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Day 2
 
@@ -138,7 +138,7 @@ Jamaican ginger beer + strong Jamaican rum, whodathunkit?
 
 ### Behind the Bar with Cara Devine Video
 
-<iframe width="1775" height="837" src="https://www.youtube.com/embed/bwycLcwlQYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bwycLcwlQYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Day 5
 
@@ -289,7 +289,7 @@ there.
 
 Skip to 19m57s, this vid contains multiple variations on the White Russian.
 
-<iframe width="1775" height="837" src="https://www.youtube.com/embed/3Sgw1oD6acY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Sgw1oD6acY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Day 11
 
@@ -331,7 +331,7 @@ Hat's off to ms Devine.
 
 ### Behind the Bar with Cara Devine Video
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/UPOaN_quMY8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UPOaN_quMY8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Day 12
 
@@ -379,7 +379,7 @@ Greg is right that bourbon is the better spirit for this.
 
 ### How To Drink Video
 
-<iframe width="1775" height="837" src="https://www.youtube.com/embed/zKV-Xjbipw0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zKV-Xjbipw0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Day 14
 
@@ -445,7 +445,7 @@ dinner self-destruction.
 
 ### Basics with Babish / Greg from How To Drink Crossover video
 
-<iframe width="1775" height="837" src="https://www.youtube.com/embed/LftLcYM6Fzw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LftLcYM6Fzw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You'll notice that Greg also offers a super-simplified version of eggnog,
 basically chuck an egg in a shaker and add creamy stuff and booze.  I have not
