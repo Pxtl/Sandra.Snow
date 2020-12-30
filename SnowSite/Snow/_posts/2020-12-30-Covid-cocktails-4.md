@@ -455,7 +455,7 @@ tried that but it sounds *way* easier.
 
 This round was super fun, experimenting with new things and new flavors that I
 hadn't tried before.  By far my favourite this time around was Devine's take on
-the **Michelada**.  The **~~dark and stormy~~Non-Trademarked Mixture of Rum and
+the **Michelada**.  The **<strike>dark and stormy</strike>Non-Trademarked Mixture of Rum and
 Ginger Beer** is an easy one to make if you've already got a Jamaican rum handy
 (and if it's a Gosling's then you even get to call it by the name).
 
