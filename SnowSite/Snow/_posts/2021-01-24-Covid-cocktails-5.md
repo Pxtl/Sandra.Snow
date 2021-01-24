@@ -11,7 +11,7 @@ was sparkling wine, so there's a lot of it here.
 
 ![Covid cocktails 5 collage](/images/2021-01-24-Covid-cocktails-5/Covid-cocktails-5-collage-1024.jpg)
 
-<!-- excerpt -->
+<!--excerpt-->
 
 # 14 Days of New Year's Cocktails
 
