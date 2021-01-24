@@ -9,7 +9,7 @@ Even though I just finished a round of cocktails around Christmas, in honor of
 New Year's Eve I pivoted right into Covid Cocktails round 5.  The main reason
 was sparkling wine, so there's a lot of it here.
 
-![Covid cocktails 5 collage](/images/2020-01-24-Covid-cocktails-5/Covid-cocktails-5-collage-1024.jpg)
+![Covid cocktails 5 collage](/images/2021-01-24-Covid-cocktails-5/Covid-cocktails-5-collage-1024.jpg)
 
 <!-- excerpt -->
 
@@ -37,7 +37,7 @@ for Christmas. Look at this absolute unit. Big cubes aren't just for show,
 they're important in the shaker too, they provide some real weight when smashing
 things around in there.
 
-![Pineapple Fizz](/images/2020-01-24-Covid-cocktails-5/pineapple-fizz.jpg)
+![Pineapple Fizz](/images/2021-01-24-Covid-cocktails-5/pineapple-fizz.jpg)
 
 The drink is fun. Tangy and funky with the rum, Angostura, and pineapple flavors
 playing together.
@@ -76,7 +76,7 @@ Add:
 
 Stir, garnish w mint
 
-![Mojito](/images/2020-01-24-Covid-cocktails-5/mojito.jpg)
+![Mojito](/images/2021-01-24-Covid-cocktails-5/mojito.jpg)
 
 Properly a mojito calls for lime, not lemon, but I was out. Mojitos were my
 go-to drink on trips to Cuba and one of the only real cocktails I had a lot of
@@ -111,7 +111,7 @@ shake, strain to glass, and top with
 
 - 1oz brut sparkling wine
 
-![Barracuda](/images/2020-01-24-Covid-cocktails-5/barracuda.jpg)
+![Barracuda](/images/2021-01-24-Covid-cocktails-5/barracuda.jpg)
 
 This is nice.  The vanilla is a bit subdued, so it's kind of a fizzy pineapple
 mimosa - like a less-sweet, wine-tinged version of the Pineapple Fizz I did the
@@ -145,7 +145,7 @@ Top with
 - 1oz sparkling wine
 
 ![Ramos Chocolate
-Fizz](/images/2020-01-24-Covid-cocktails-5/Ramos-chocolate-fizz.jpg)
+Fizz](/images/2021-01-24-Covid-cocktails-5/Ramos-chocolate-fizz.jpg)
 
 Daughter was curious and sniffed it as I was pouring it. Her nose wrinkled and
 she exclaimed "It smells like unicorn vomit!".
@@ -178,7 +178,7 @@ Shake with ice, pour to glass, top with sparkling wine. Garnish with a twist.
 
 So it's basically a gin sour with champagne on top.  
 
-![French 75](/images/2020-01-24-Covid-cocktails-5/French-75.jpg)
+![French 75](/images/2021-01-24-Covid-cocktails-5/French-75.jpg)
 
 Considering how similar it is to a Tom Collins I expected not to like it... I
 was wrong.  This is fantastic.  The gin shines through the bubbly and the
@@ -199,7 +199,7 @@ Of course we can't do champagne cocktails without the brunch fixture, the mimosa
 - 3oz sparkling wine
 - cherry for garnish
 
-![mimosa](/images/2020-01-24-Covid-cocktails-5/mimosa.jpg)
+![mimosa](/images/2021-01-24-Covid-cocktails-5/mimosa.jpg)
 
 It's what you'd expect - the OJ and sparkling wine goes together perfectly nice.
 Sweet and bubbly and citrus. Very light. The cherry does add a nice note - I
@@ -236,7 +236,7 @@ garnish with mint.
 
 So it's basically a Mojito Royale.
 
-![old Cuban](/images/2020-01-24-Covid-cocktails-5/old-Cuban.jpg)
+![old Cuban](/images/2021-01-24-Covid-cocktails-5/old-Cuban.jpg)
 
 Tasty.  Letting the mint sit in the syrup released its flavors well.  Strong
 mint flavors this time, which nicely complimented the lime and sparkling wine.
@@ -254,7 +254,7 @@ Build in glass:
 
 stir, garnish with raspberries
 
-![kir royale](/images/2020-01-24-Covid-cocktails-5/kir-royale.jpg)
+![kir royale](/images/2021-01-24-Covid-cocktails-5/kir-royale.jpg)
 
 Not much to it, perfectly nice, sweet, tasty drink. The liqueur has kind of a
 forgettable non-specific berry flavor, and that mixes well with the bubbly.
@@ -274,7 +274,7 @@ build in a glass:
 
 Garnish with a sprig of rosemary.
 
-![poinsettia](/images/2020-01-24-Covid-cocktails-5/poinsettia.jpg)
+![poinsettia](/images/2021-01-24-Covid-cocktails-5/poinsettia.jpg)
 
 Greg from How to Drink called this kind of one-note and boring, but it's a good
 note.
@@ -296,7 +296,7 @@ ingredients. build in rocks glass over ice:
 - 5oz fever tree cucumber tonic water (or whatever, I'm guesstimating)
 - lemon twist and wedge for garnish
 
-![gin and tonic](/images/2020-01-24-Covid-cocktails-5/gin-and-tonic.jpg)
+![gin and tonic](/images/2021-01-24-Covid-cocktails-5/gin-and-tonic.jpg)
 
 Very nice.  So many flavors going on... the cucumber tonic water isn't as bitter
 as some, and adds some nice subtle cucumber notes to the gin and quinine
@@ -315,7 +315,7 @@ stir, then add:
 
 - 3 barspoons creme de cassis on top
 
-![executive sunrise](/images/2020-01-24-Covid-cocktails-5/executive-sunrise.jpg)
+![executive sunrise](/images/2021-01-24-Covid-cocktails-5/executive-sunrise.jpg)
 
 It definitely looked better than the black sun I made last time around.  Creme de cassis left lovely swirls in the drink as it sinks to the bottom.
 
@@ -344,7 +344,7 @@ Muddle, then add
 
 Shake, pour to glass, garnish with cucumber roll.
 
-![eastside](/images/2020-01-24-Covid-cocktails-5/eastside.jpg)
+![eastside](/images/2021-01-24-Covid-cocktails-5/eastside.jpg)
 
 So it's basically a gin sour with added mint and cucumber.  After my G&T, I
 liked the idea of cucumber with gin.  Unfortunately, I couldn't taste the
@@ -376,7 +376,7 @@ double-strain to glass,
 
 garnish with mint.
 
-![honeysuckle daiquiri](/images/2020-01-24-Covid-cocktails-5/honeysuckle-daiquiri.jpg)
+![honeysuckle daiquiri](/images/2021-01-24-Covid-cocktails-5/honeysuckle-daiquiri.jpg)
 
 I thought I would like this more than the Bees Knees since all the fruit and
 honey is up... and the first sip was lovely... but as I got further into it, it
@@ -401,7 +401,7 @@ the ingredients obvious. Build in a glass over ice:
 - 3oz club soda
 - garnish with cherries because why not?
 
-![vermouth cassis](/images/2020-01-24-Covid-cocktails-5/vermouth-cassis.jpg)
+![vermouth cassis](/images/2021-01-24-Covid-cocktails-5/vermouth-cassis.jpg)
 
 It tastes like a ice-wine pop, with a hint of cherry and black currant.  Not
 bad.  The cherries were a good idea, added a bit more to the black currant of
