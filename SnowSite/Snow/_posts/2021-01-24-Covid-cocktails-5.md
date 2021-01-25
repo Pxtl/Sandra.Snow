@@ -407,3 +407,23 @@ It tastes like a ice-wine pop, with a hint of cherry and black currant.  Not
 bad.  The cherries were a good idea, added a bit more to the black currant of
 the cassis.  I'd make this again if I ever had leftover vermouth and cassis to
 use up.
+
+# Final Thoughts
+
+This was a fun round because I was trying not to overthink things this time. Now
+after 4 rounds of cocktails I have a decent liquor cabinet and I'm getting a
+decent idea what works and what doesn't (in most cases, no idea what the heck
+happened with the Honeysuckle Daiquiri).  
+
+Basically I bought a bottle of bubbly and thought "hey, I know lots of recipes
+that I can make with this, I should see how many new cocktails I can do".  I
+actually mixed up the honey syrup to make a few honey-and-sparkling-wine
+cocktails but then ran out of the sparkling wine.
+
+Anyhow, stand-out favourites were the **poinsettia** (honestly, the garnish
+plays a big part in this, I love rosemary), and the **French 75**. 
+
+The **barracuda** is definitely a solid drink for the pineapple-lover in your
+life and is a nice upgrade to **pineapple fizz**.  And I'll always love
+**mojitos**, especially now that I know how to properly get the mint flavor to
+really stand out, and their royale cousin the **old Cuban** classes it up.
