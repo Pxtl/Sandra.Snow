@@ -7,7 +7,7 @@ title: #HamOnt Police Town Hall
 
 I'm a luddite with a land-line.
 
-At 7:30PM today (2021-01-26) I was called to participate in the #HamOnt police
+At 7:30PM today (2021-01-26) I was called to participate in the Hamilton police
 town hall.  I was honestly hoping *not* to get called because I'm prone to being
 a wishy-washy centrist and I have a lot of online friends that are much further
 left I respect the hell out of them, and I feel like I need to fight the good
