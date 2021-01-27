@@ -69,7 +69,7 @@ controls the rising price.  And they're not increasing funding for subsidized
 housing to a level that's making any kind of substantial dent in the housing
 problem either - so neither markets nor government are fixing this.
 > 
-> As far as I know, police are the largest line-item outside of city staff budget,
+> As far as I know, police are the largest line-item of the city staff budget,
 why aren't we seeing the same scrutiny on and line-holding on their budget as we
 see on every other part of the city budget?
 > 
