@@ -46,11 +46,11 @@ questions, I pressed "3" to indicate I had a question.
 
 - The next asker started speaking... I don't remember what they asked.
 
-At 8:07PM, the line abruptly disconnected mid-word.  City of Hamilton abruptly
-hung up on me.  **Rude**.
+At 8:07PM, the line abruptly disconnected mid-word.  I never got the chance to
+ask my question.  City of Hamilton abruptly hung up on me.  **Rude**.
 
-Here's the question I would've asked - I would have written a shorter letter,
-but I did not have the time:
+Here's the question I would've asked - "I would have written a shorter letter,
+but I did not have the time":
 
 > From what I've seen, the Hamilton police budget over the last has grown
 substantially over the last 10 years - faster than population growth, faster
