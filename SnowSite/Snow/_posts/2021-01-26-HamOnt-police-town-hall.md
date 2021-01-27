@@ -2,7 +2,7 @@
 published: published 
 layout: post 
 category: HamOnt
-title: '#HamOnt Police Town Hall'
+title: #HamOnt Police Town Hall
 ---
 
 I'm a luddite with a land-line.
