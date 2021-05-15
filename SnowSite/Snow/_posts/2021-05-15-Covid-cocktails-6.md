@@ -382,4 +382,22 @@ Nice fruity cinnamon drink but I think I used too much ice.
 
 # Final Thoughts
 
-TODO
+This particular round was an education on the subject of ingredients and
+quality.  I watched through the "How To Drink" video on manhattans and picked a
+vermouth that he recommended (before going to the hospital to get his stomach
+pumped from alcohol poisoning - stay safe out there, kids).  Sadly the *best*
+sweet Italian vermouths aren't available at the LCBO - Punt e Mes and Antica
+Formula are pretty consistently top of the list... but the Dolin sweet vermouth
+made all the difference from my previous attempts with it.
+
+Likewise, switching from traditional Canadian whiskeys to a bourbon (well,
+bourbon-like Canadian whiskey) really helped the drinks that demanded a sweeter,
+less rye-heavy base spirit.
+
+And Campari is definitely... interesting to work with.  If you like the shocking
+bitterness of grapefruit I'd say you should give it a try.
+
+Favorites this time through were the **vegan whiskey sour**, the **blueberry
+G&T** (my wife's favorite) and the **painkiller**.  Honorable mention go to the
+**Garibaldi**, the **Americano**, and the **boulevardier** for warming me up to
+the Campari.
