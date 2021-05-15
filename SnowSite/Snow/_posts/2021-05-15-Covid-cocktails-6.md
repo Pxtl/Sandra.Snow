@@ -184,7 +184,7 @@ sweet mint, ice, and whiskey, but that's pretty good.
 
 ### Relevant How To Drink Video on Mint Juleps
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QsCrcLG6Mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uTKC9Ht4Erg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Day 7
 
@@ -266,7 +266,7 @@ vermouths and whiskeys... but he tries so many combinations thereof he gets
 himself alcohol poisoning.  So it's simultaneously educational, entertaining,
 and an important cautionary tale.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QsCrcLG6Mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_QsCrcLG6Mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Day 10
 
