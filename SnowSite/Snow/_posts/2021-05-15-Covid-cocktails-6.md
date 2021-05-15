@@ -182,6 +182,10 @@ sweetened bourbon with a touch of mint.  Let it melt and the bourbon softens and
 the mint expresses and it's icy and minty.  In the end, it just tastes like
 sweet mint, ice, and whiskey, but that's pretty good.
 
+### Relevant How To Drink Video on Mint Juleps
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QsCrcLG6Mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Day 7
 
 For Covid cocktails 6, day 7, here comes the story of the **Hurricane**.
@@ -247,6 +251,15 @@ In a mixing glass, combine with ice:
 mix, strain to a chilled glass,
 
 garnish with a brandied cherry
+
+### Relevant How To Drink Video on Manhattans
+
+This is the "Manhattan Matrix" episode of HTD where he breaks down various
+vermouths and whiskeys... but he tries so many combinations thereof he gets
+himself alcohol poisoning.  So it's simultaneously educational, entertaining,
+and an important cautionary tale.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QsCrcLG6Mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Manhattan](/images/2021-05-15-Covid-cocktails-6/manhattan-2.jpg)
 
