@@ -252,6 +252,13 @@ mix, strain to a chilled glass,
 
 garnish with a brandied cherry
 
+![Manhattan](/images/2021-05-15-Covid-cocktails-6/manhattan-2.jpg)
+
+I really liked it... the cherry nose and mix of complex flavours from the
+bitters and the vermouth combine wonderfully and the sweetness keeps any of the
+bittering parts from being overpowering.  It was just plain nice.  The detailed
+flavors are... kind of indescribable.
+
 ### Relevant How To Drink Video on Manhattans
 
 This is the "Manhattan Matrix" episode of HTD where he breaks down various
@@ -260,13 +267,6 @@ himself alcohol poisoning.  So it's simultaneously educational, entertaining,
 and an important cautionary tale.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QsCrcLG6Mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![Manhattan](/images/2021-05-15-Covid-cocktails-6/manhattan-2.jpg)
-
-I really liked it... the cherry nose and mix of complex flavours from the
-bitters and the vermouth combine wonderfully and the sweetness keeps any of the
-bittering parts from being overpowering.  It was just plain nice.  The detailed
-flavors are... kind of indescribable.
 
 ## Day 10
 
