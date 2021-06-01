@@ -126,7 +126,7 @@ sugar instead of white sugar.
 
 Recipe and historical context from here:
 
-https://www.liquor.com/recipes/jungle-bird/
+[https://www.liquor.com/recipes/jungle-bird/](https://www.liquor.com/recipes/jungle-bird/)
 
 ## Day 5
 
