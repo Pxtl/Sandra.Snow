@@ -130,7 +130,7 @@ Recipe and historical context from here:
 
 ## Day 5
 
-Covid Cocktails 7, day 5: a cool split-base cocktail called the Ampersand.
+Covid Cocktails 7, day 5: a cool split-base cocktail called the **Ampersand**.
 Canonically this is supposed to be an Old Tom gin (i.e. sweet gin) and not a
 London Dry, but Collective Arts is pretty sweet and I'll throw in a bar spoon of
 simple to make up for it.
