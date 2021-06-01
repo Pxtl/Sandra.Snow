@@ -63,6 +63,7 @@ resignation, a festive seasonal drink:
 A **mojito**.
 
 In a glass, add:
+
 - 1oz lemon juice
 - 0.5oz simple
 - Several leaves mint
@@ -70,6 +71,7 @@ In a glass, add:
 Muddle the mint.
 
 Add:
+
 - 2oz white Cuban rum
 - Ice
 - Seltzer to top.
@@ -101,11 +103,12 @@ champagne.  Well, sparkling wine.
 
 First, the **barracuda**.
 
-In shaker
-- 1.5oz Cuban white rum
-- 0.5oz Galliano
-- 1.5oz pineapple
-- 0.25oz lime
+In shaker:
+
+- 1.5 oz Cuban white rum
+- 0.5 oz Galliano
+- 1.5 oz pineapple
+- 0.25 oz lime
 
 shake, strain to glass, and top with
 
@@ -127,12 +130,12 @@ We get weird with NYE cocktails, with Difford's "**Ramos Chocolate Fizz**".
 
 In shaker:
 
-- 1.5oz gin
-- 1.0oz chocolate liquer
+- 1.5 oz gin
+- 1.0 oz chocolate liquer
 - barspoon orange flower water
 - barspoon vanilla extract
 - 1 egg white
-- 1oz single cream
+- 1 oz single cream
 
 Dry shake, 
 
@@ -170,9 +173,10 @@ The classic sparkling wine cocktail, the **French 75**,
 AKA the Soixante Quinze, named after the artillery weapon.
 
 In a shaker:
-- 1.5oz gin
-- 0.75oz lemon
-- 0.5oz simple syrup
+
+- 1.5 oz gin
+- 0.75 oz lemon
+- 0.5 oz simple syrup
 
 Shake with ice, pour to glass, top with sparkling wine. Garnish with a twist.
 
@@ -195,8 +199,8 @@ No ragrets.
 
 Of course we can't do champagne cocktails without the brunch fixture, the mimosa.
 
-- 3oz OJ
-- 3oz sparkling wine
+- 3 oz OJ
+- 3 oz sparkling wine
 - cherry for garnish
 
 ![mimosa](/images/2021-01-24-Covid-cocktails-5/mimosa.jpg)
@@ -218,14 +222,14 @@ Muddle 6+ leaves mint,
 
 add
 
-- 0.5oz simple syrup,
+- 0.5 oz simple syrup,
 
 let stand while hunting for ingredients.
 
 Add:
 
-- 0.75oz lime
-- 1.5oz Cuban rum
+- 0.75 oz lime
+- 1.5 oz Cuban rum
 - 2 dashes Angostura bitters
 
 Shake with ice, pour to glass
@@ -268,8 +272,8 @@ Chill all ingredients in freezer,
 
 build in a glass:
 
-- 0.75oz triple sec
-- 3oz cranberry cocktail
+- 0.75 oz triple sec
+- 3 oz cranberry cocktail
 - fill to top with bubbly
 
 Garnish with a sprig of rosemary.
@@ -292,8 +296,8 @@ well.  I liked this a lot.
 **Gin and tonic**.  Which I've had before at a bar, but this time I'm using proper
 ingredients. build in rocks glass over ice:
 
-- 2oz gin
-- 5oz fever tree cucumber tonic water (or whatever, I'm guesstimating)
+- 2 oz gin
+- 5 oz fever tree cucumber tonic water (or whatever, I'm guesstimating)
 - lemon twist and wedge for garnish
 
 ![gin and tonic](/images/2021-01-24-Covid-cocktails-5/gin-and-tonic.jpg)
@@ -308,8 +312,9 @@ better but I'd already started a lemon.
  I return to the Tequila Sunrise with the **executive sunrise**.
 
 Build in a glass:
-- 2oz reposado tequila
-- 5oz orange juice
+
+- 2 oz reposado tequila
+- 5 oz orange juice
 
 stir, then add:
 
@@ -334,12 +339,12 @@ In a shaker,
 
 - 6 leaves mint
 - 1 long cucumber slice
-- 0.5oz simple syrup
+- 0.5 oz simple syrup
 
 Muddle, then add
 
-- 2oz gin
-- 1oz lime
+- 2 oz gin
+- 1 oz lime
 - ice
 
 Shake, pour to glass, garnish with cucumber roll.
@@ -365,10 +370,10 @@ into the shaker.  I dunno.
 
 The Honeysuckle Daiquiri.  A rum-based variant of the Bees Knees.
 
-- 2oz Cuban rum
-- 0.66oz lemon juice
-- 0.33oz orange juice
-- 0.5oz honey syrup
+- 2 oz Cuban rum
+- 0.66 oz lemon juice
+- 0.33 oz orange juice
+- 0.5 oz honey syrup
 
 Shake with ice, 
 
@@ -396,9 +401,9 @@ final cocktail is really just about using up stuff taking up space in my fridge.
 So, I made a simple Vermouth Cassis - a cocktail where the name kind of makes
 the ingredients obvious. Build in a glass over ice:
 
-- 3oz dry French vermouth
-- 0.75oz creme de cassis
-- 3oz club soda
+- 3 oz dry French vermouth
+- 0.75 oz creme de cassis
+- 3 oz club soda
 - garnish with cherries because why not?
 
 ![vermouth cassis](/images/2021-01-24-Covid-cocktails-5/vermouth-cassis.jpg)
