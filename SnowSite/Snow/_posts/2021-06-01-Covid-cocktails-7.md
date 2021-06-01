@@ -278,7 +278,9 @@ Nice, refreshing, sweet and subtle.
 
 ## Day 10
 
-Covid cocktails 7, day 10: The Winsconsin Brandy Old Fashioned (sweet).
+**The Winsconsin Brandy Old Fashioned (sweet).** There are two versions of this
+cocktail, the sweet version (using sprite) and the sour one (using sour mix).  I
+didn't want to have to ratio down a sour mix so I went for the sweet.
 
 In a glass, muddle
 
