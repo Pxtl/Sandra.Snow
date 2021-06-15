@@ -10,6 +10,8 @@ What follows is a lengthy letter I sent to them.
 
 <!--excerpt-->
 
+---
+
 Councillors, Mr Mayor,
 
 I'm writing to respectfully ask you to support the Hamilton LRT project. This is
