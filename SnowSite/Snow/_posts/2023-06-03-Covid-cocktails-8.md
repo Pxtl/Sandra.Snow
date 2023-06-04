@@ -139,7 +139,7 @@ Not much to it but that's what you'd expect from a simple 2-ingredient drink.
 
 For those keeping score, this is my 100th distinct cocktail since I started mixing a year ago!
 
-![How To Drink](https://www.youtube.com/channel/UCioZY1p0bZ4Xt-yodw8_cBQ) vids got me into this, I decided it would be good to mix one of the first h2d originals: the **Gin Whisper** for the Centennial.
+[How To Drink](https://www.youtube.com/channel/UCioZY1p0bZ4Xt-yodw8_cBQ) vids got me into this, I decided it would be good to mix one of the first h2d originals: the **Gin Whisper** for the Centennial.
 
 In a shaker, muddle
 
