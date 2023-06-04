@@ -139,7 +139,7 @@ Not much to it but that's what you'd expect from a simple 2-ingredient drink.
 
 For those keeping score, this is my 100th distinct cocktail since I started mixing a year ago!
 
-[How To Drink](https://www.youtube.com/channel/UCioZY1p0bZ4Xt-yodw8_cBQ) vids got me into this, I decided it would be good to mix one of the first h2d originals: the **Gin Whisper** for the Centennial.
+![How To Drink](https://www.youtube.com/channel/UCioZY1p0bZ4Xt-yodw8_cBQ) vids got me into this, I decided it would be good to mix one of the first h2d originals: the **Gin Whisper** for the Centennial.
 
 In a shaker, muddle
 
@@ -228,7 +228,7 @@ Build in a glass full of ice:
 
 Garnish w lime
 
-[elderflower spritz](/images/2023-06-03-Covid-cocktails-8/elderflower-spritz.jpg)
+![elderflower spritz](/images/2023-06-03-Covid-cocktails-8/elderflower-spritz.jpg)
 
 Okay, this is a super simple cocktail but I really liked it.  St Germain has a sort of sweet but acidic and floral stonefruity flavor to it - like a gourmet take on sour candy.  That's flavors you get naturally in some white wines but turned up to 11.  So mixing it with the pinot grigio/chardonnay mix works really well.
 
@@ -253,7 +253,7 @@ Stir...
 
 Top with foamed hot milk, fresh nutmeg, and cocoa powder.
 
-[Mexicano con leche](/images/2023-06-03-Covid-cocktails-8/Mexicano-con-leche.jpg)
+![Mexicano con leche](/images/2023-06-03-Covid-cocktails-8/Mexicano-con-leche.jpg)
 
 Nice.  A bit mild because of the substitutions.  First sip is especially nice with the cocoa and nutmeg nose, then you get into it with the coffee with a nice hint of brandy and orange.  I wish I still had a reposado, a more flavorful tequila would've been better.
 
@@ -277,7 +277,7 @@ Shake with ice, double-strain to an ice-filled glass.
 
 Garnish with cherry and orange.
 
-[Black Eyed Susan](/images/2023-06-03-Covid-cocktails-8/black-eyed-Susan.jpg)
+![Black Eyed Susan](/images/2023-06-03-Covid-cocktails-8/black-eyed-Susan.jpg)
 
 ... it's sweet.  And peachy.  And sweet.  And boozy.  The boozy flavor works with it but yeah it's really sweet. Probably wouldn't hurt to cut back the syrup - I was trying to approximate 2 oz sour mix with the sugar and lemon and lime.
 
@@ -303,7 +303,7 @@ Shake with ice, then add
 
 Then double-strain to a Collins glass full of ice.  Garnish with lemon.
 
-[Kentucky Buck](/images/2023-06-03-Covid-cocktails-8/Kentucky-buck.jpg)
+![Kentucky Buck](/images/2023-06-03-Covid-cocktails-8/Kentucky-buck.jpg)
 
 It didn't need the simple syrup, the ginger beer brings enough sweetness.  I think the simple came from the Reddit substitution, though.
 
@@ -332,7 +332,7 @@ Mix with ice in the shaker (don't shake?  I'll just use a mixing glass then).  S
 
 Garnish w mint and cherry.
 
-[RumChata Double Chocolate Apertif](/images/2023-06-03-Covid-cocktails-8/RumChata-double-chocolate-aperitif.jpg)
+![RumChata Double Chocolate Apertif](/images/2023-06-03-Covid-cocktails-8/RumChata-double-chocolate-aperitif.jpg)
 
 Wowww too sweet.  It's basically a liquified slice of coffee cake.  Which, if that's what you're into have at it.  I added ice to chill it and lengthen it a bit.
 
@@ -355,7 +355,7 @@ Okay, I cheated, I didn't use crushed ice, just regular ice cubes.  It was late 
 
 Garnish with mint.
 
-[Mr Bali Hai](/images/2023-06-03-Covid-cocktails-8/mr-bali-hai.jpg)
+![Mr Bali Hai](/images/2023-06-03-Covid-cocktails-8/mr-bali-hai.jpg)
 
 This is a good one.  Interesting drink with a surprising mix of fruit and coffee flavors.  It's such a strange fusion that my wife started thinking "caramel?" from the color.  Approachable, surprising, and fun.  
 
