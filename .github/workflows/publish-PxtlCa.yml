@@ -48,6 +48,7 @@ jobs:
 
           git config --global user.name "github actions bot (on behalf of $lastUserName)"
           git config --global user.email $lastUserEamil
+          git config --global core.autocrlf false
           popd
 
           "Running Snow..."
