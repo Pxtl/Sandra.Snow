@@ -38,7 +38,7 @@ jobs:
 
           & Snow\Snow.exe config=.\doc\SnowSite\Snow\Snow.config
 
-          "Updating Pxtl.github.io
+          Write-Output "Updating Pxtl.github.io"
           $lastMessage = git log -1 --pretty=%B | Select-Object -First 1
           cd Pxtl.github.io
           git add .
