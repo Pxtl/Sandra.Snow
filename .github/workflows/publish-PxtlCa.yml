@@ -6,6 +6,10 @@ on:
       - 'SnowSite/**'
       - '.github/workflows/*'
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Build Snow"]
+    types:
+      - completed
 
 jobs:
   publish:
