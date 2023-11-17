@@ -5,6 +5,7 @@ on:
     branches: [ "master" ]
     paths:
     - 'src/**'
+    - '.github/workflows/build-snow.yml'
   workflow_dispatch:
 
 jobs:
@@ -14,8 +15,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Setup MSBuild
-      uses: microsoft/setup-msbuild@v1
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v1.0.5 
     - name: setup-msbuild
