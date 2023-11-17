@@ -1,7 +1,7 @@
 ---
 published: published 
 layout: post 
-category: Life
+category: Blog
 title: More rigid
 ---
 If you watch "Well There's Your Problem" podcast (about engineering disasters),

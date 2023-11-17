@@ -1,7 +1,7 @@
 ---
 published: published 
 layout: post 
-category: Life
+category: Blog
 title: Sick Pupper
 ---
 
