@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           repository: Pxtl/Pxtl.github.io
-          path: ..
+          path: Pxtl.github.io
       - name: Download Snow artifact
         uses: dawidd6/action-download-artifact@v2
         with:
@@ -34,9 +34,9 @@ jobs:
         shell: pwsh
         run: |
           $ErrorActionPreference = 'Stop'
-          
-          ls .. #debug
+
+          ls #debug
           "Running Snow..."
           & Snow\Snow.exe config=.\SnowSite\Snow\Snow.config
           "Checking output..."
-          ls .. #debug
+          ls #debug
