@@ -30,6 +30,7 @@ jobs:
         uses: dawidd6/action-download-artifact@v2
         with:
           workflow: build-snow.yml
+          path: bin
       - name: run Snow
         shell: pwsh
         run: |
@@ -37,6 +38,6 @@ jobs:
 
           ls #debug
           "Running Snow..."
-          & Snow\Snow.exe config=.\SnowSite\Snow\Snow.config
+          & bin\Snow\Snow.exe config=.\SnowSite\Snow\Snow.config
           "Checking output..."
           ls #debug
