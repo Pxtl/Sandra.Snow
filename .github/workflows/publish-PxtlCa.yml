@@ -21,6 +21,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           sparse-checkout: SnowSite
+          path: doc
       - name: Checkout Pxtl.github.io
         uses: actions/checkout@v3
         with:
@@ -30,7 +31,6 @@ jobs:
         uses: dawidd6/action-download-artifact@v2
         with:
           workflow: build-snow.yml
-          path: bin
       - name: run Snow
         shell: pwsh
         run: |
@@ -38,6 +38,6 @@ jobs:
 
           ls #debug
           "Running Snow..."
-          & bin\Snow\Snow.exe config=.\SnowSite\Snow\Snow.config
+          & Snow\Snow.exe config=.\doc\SnowSite\Snow\Snow.config
           "Checking output..."
           ls #debug
