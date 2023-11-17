@@ -3,16 +3,17 @@ name: publish PxtlCa
 on: [ push ]
 
 jobs:
-  build:
+  publish:
 
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v3
         with:
           filter: SnowSite/**
-      - uses: actions/download-artifact@v3
+      - name: Download Snow artifact
+        uses: dawidd6/action-download-artifact@v2
         with:
-          name: Snow
+          workflow: build-snow.yml
       - name: run Snow
         shell: pwsh
         run: |
