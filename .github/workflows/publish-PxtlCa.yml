@@ -1,4 +1,4 @@
-name: publish PxtlCa
+name: Publish PxtlCa
 
 on: 
   push:
@@ -13,12 +13,19 @@ on:
 
 jobs:
   publish:
-
     runs-on: windows-latest
+    strategy:
+      fail-fast: true
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout SnowSite
+        uses: actions/checkout@v3
         with:
           sparse-checkout: SnowSite
+      - name: Checkout Pxtl.github.io
+        uses: actions/checkout@v3
+        with:
+          repository: Pxtl/Pxtl.github.io
+          path: ..
       - name: Download Snow artifact
         uses: dawidd6/action-download-artifact@v2
         with:
@@ -27,8 +34,9 @@ jobs:
         shell: pwsh
         run: |
           $ErrorActionPreference = 'Stop'
-          tree #debug
-          ls #debug
-          ls SnowSite/Snow #debug
-          "Running Snow"
+          
+          ls .. #debug
+          "Running Snow..."
           & Snow\Snow.exe config=.\SnowSite\Snow\Snow.config
+          "Checking output..."
+          ls .. #debug
