@@ -36,8 +36,11 @@ jobs:
         run: |
           $ErrorActionPreference = 'Stop'
 
-          ls #debug
-          "Running Snow..."
           & Snow\Snow.exe config=.\doc\SnowSite\Snow\Snow.config
-          "Checking output..."
-          ls #debug
+
+          "Updating Pxtl.github.io
+          $lastMessage = git log -1 --pretty=%B | Select-Object -First 1
+          cd Pxtl.github.io
+          git add .
+          git commit -m "Publish: $lastMessage"
+          git push
