@@ -35,21 +35,25 @@ jobs:
         shell: pwsh
         run: |
           $ErrorActionPreference = 'Stop'
+          $blogdir = ".\Pxtl.github.io"
+          $docdir = ".\doc\SnowSite"
 
           "Configuring git..."
 
+          pushd $docdir
           $lastMessage = git log -1 --pretty=%B | Select-Object -First 1
           $lastUserName = git log -1 --pretty=format:'%an' | Select-Object -First 1
           $lastUserEamil = git log -1 --pretty=format:'%ae' | Select-Object -First 1
 
           git config --global user.name "github actions bot (on behalf of $lastUserName)"
           git config --global user.email $lastUserEamil
+          popd
 
           "Running Snow..."
-          & Snow\Snow.exe config=.\doc\SnowSite\Snow\Snow.config
+          & Snow\Snow.exe "config=$docdir\Snow\Snow.config"
 
-          Write-Output "Updating Pxtl.github.io..."
-          cd Pxtl.github.io
+          Write-Output "Updating $blogdir..."
+          cd $blogdir
           
           git add .
           git commit -m "Publish: $lastMessage"
