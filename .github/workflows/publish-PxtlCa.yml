@@ -1,0 +1,21 @@
+name: publish PxtlCa
+
+on: [ push ]
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          filter: SnowSite/**
+      - uses: actions/download-artifact@v3
+        with:
+          name: Snow
+      - name: run Snow
+        shell: pwsh
+        run: |
+          ls
+          "Running Snow"
+          & Snow\Snow.exe
