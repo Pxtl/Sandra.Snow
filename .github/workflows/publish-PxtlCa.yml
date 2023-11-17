@@ -2,7 +2,9 @@ name: publish PxtlCa
 
 on: 
   push:
-    paths: SnowSite/**
+    paths: |
+      SnowSite/**
+      .github/workflows/publish-PxtlCa.yml
   workflow_dispatch:
 
 jobs:
