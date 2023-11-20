@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'SnowSite/**'
-      - '.github/workflows/*'
+      - '.github/workflows/publish-PxtlCa.yml'
   workflow_dispatch:
   workflow_run:
     workflows: ["Build Snow"]
@@ -48,6 +48,7 @@ jobs:
 
           git config --global user.name "github actions bot (on behalf of $lastUserName)"
           git config --global user.email $lastUserEamil
+          git config --global core.autocrlf false
           popd
 
           "Running Snow..."
