@@ -52,7 +52,7 @@ jobs:
           popd
 
           "Running Snow..."
-          & Snow\Snow.exe "config=$docdir\Snow\Snow.config"
+          & Snow\Snow.exe "config=$docdir\Snow\Snow.config.json"
 
           Write-Output "Updating $blogdir..."
           cd $blogdir

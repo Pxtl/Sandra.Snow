@@ -1,1 +1,1 @@
-..\src\Snow\bin\Debug\Snow config=.\Snow\Snow.config
+..\src\Snow\bin\Debug\Snow config=.\Snow\Snow.config.json

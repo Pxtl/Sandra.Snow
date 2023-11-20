@@ -2,7 +2,7 @@ param(
     [Parameter(Position=0,mandatory=$true)][string]$message
 )
 
-& src\Snow\bin\Debug\Snow config=.\SnowSite\Snow\Snow.config
+& src\Snow\bin\Debug\Snow config=.\SnowSite\Snow\Snow.config.json
 git add .
 git commit -m $message
 git push
