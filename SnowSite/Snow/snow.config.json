@@ -23,15 +23,17 @@
     "file": "category.cshtml",
     "loop": "Categories"
   },{
-    "file": "categories.cshtml => category"
-  },{
-    "file": "archive.cshtml"
-  },{
+    "file": "categories.cshtml => category",
+    "title": "Categories"
+    },{
+    "file": "archive.cshtml",
+    "title": "Archive"
+    },{
     "file": "about.cshtml"
   },{
     "file": "drafts.cshtml",
     "loop": "Drafts"
-  },{
+    },{
     "file": "feed.xml",
     "loop": "atom"
   },{
