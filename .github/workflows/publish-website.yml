@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'SnowSite/**'
-      - '.github/workflows/publish-Website.yml'
+      - '.github/workflows/publish-website.yml'
   workflow_dispatch:
   workflow_run:
     workflows: ["Build Snow"]
