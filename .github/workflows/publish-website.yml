@@ -1,4 +1,5 @@
 name: Publish Website
+# publish SnowSite to the repo set in vars.WEBSITE_REPO, using the pat defined in secrets.WEBSITE_PAT
 
 on: 
   push:
@@ -15,33 +16,30 @@ env:
   YAML_PATH: .github/workflows/publish-website.yml
   IS_WEBSITE_REPO_SET: ${{ vars.WEBSITE_REPO != null }}
   IS_WEBSITE_PAT_SET: ${{ secrets.WEBSITE_PAT != null }}
+  
 jobs:
   publish:
     runs-on: windows-latest
     steps:
-      - name: Debug log all vars
-        shell: pwsh
-        run: |
-          "WEBSITE_REPO = ${{ vars.WEBSITE_REPO }}"
-          "YAML_PATH = $env:YAML_PATH"
-          "IS_WEBSITE_REPO_SET = $env:IS_WEBSITE_REPO_SET"
-          "IS_WEBSITE_PAT_SET = $env:IS_WEBSITE_PAT_SET"
       - name: Check WEBSITE_REPO var
         if: ${{ env.IS_WEBSITE_REPO_SET == 'false' }}
         shell: pwsh
         run: |
           "::warning file=$env:YAML_PATH::Mandatory repo variable WEBSITE_REPO is not set."
+          
       - name: Check WEBSITE_PAT secret
         if: ${{ env.IS_WEBSITE_REPO_SET == 'true' && env.IS_WEBSITE_PAT_SET == 'false' }}
         shell: pwsh
         run: |
           "::error file=$env:YAML_PATH::Mandatory repo secret WEBSITE_PAT is not set."
+          
       - name: Checkout SnowSite
         if: ${{ env.IS_WEBSITE_REPO_SET == 'true' }}
         uses: actions/checkout@v3
         with:
           sparse-checkout: SnowSite
           path: doc
+          
       - name: Checkout Website
         if: ${{ env.IS_WEBSITE_REPO_SET == 'true' }}
         uses: actions/checkout@v3
@@ -49,11 +47,13 @@ jobs:
           repository: ${{ vars.WEBSITE_REPO }}
           path: website
           token: ${{ secrets.WEBSITE_PAT }}
+          
       - name: Download Snow artifact
         if: ${{ env.IS_WEBSITE_REPO_SET == 'true' }}
         uses: dawidd6/action-download-artifact@v2
         with:
           workflow: build-snow.yml
+          
       - name: run Snow
         if: ${{ env.IS_WEBSITE_REPO_SET == 'true' }}
         shell: pwsh
