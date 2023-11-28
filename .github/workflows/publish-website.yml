@@ -13,8 +13,8 @@ on:
 
 env:
   YAML_PATH: .github/workflows/publish-website.yml
-  IS_WEBSITE_REPO_SET: ${{ vars.WEBSITE_REPO == null }}
-  IS_WEBSITE_PAT_SET: ${{ secrets.WEBSITE_PAT == null }}
+  IS_WEBSITE_REPO_SET: ${{ vars.WEBSITE_REPO != null }}
+  IS_WEBSITE_PAT_SET: ${{ secrets.WEBSITE_PAT != null }}
 jobs:
   publish:
     runs-on: windows-latest
