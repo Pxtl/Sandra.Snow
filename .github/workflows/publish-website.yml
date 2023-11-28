@@ -19,16 +19,23 @@ jobs:
   publish:
     runs-on: windows-latest
     steps:
+      - name: Debug log all vars
+        shell: pwsh
+        run: |
+          "WEBSITE_REPO = ${{ vars.WEBSITE_REPO }}"
+          "YAML_PATH = $env:YAML_PATH"
+          "IS_WEBSITE_REPO_SET = $env:IS_WEBSITE_REPO_SET"
+          "IS_WEBSITE_PAT_SET = $env:IS_WEBSITE_PAT_SET"
       - name: Check WEBSITE_REPO var
         if: ${{ !env.IS_WEBSITE_REPO_SET }}
         shell: pwsh
         run: |
-          "::warning file=$env.YAML_PATH::Mandatory repo variable WEBSITE_REPO is not set."
+          "::warning file=$env:YAML_PATH::Mandatory repo variable WEBSITE_REPO is not set."
       - name: Check WEBSITE_PAT secret
         if: ${{ env.IS_WEBSITE_REPO_SET && !env.IS_WEBSITE_PAT_SET }}
         shell: pwsh
         run: |
-          "::error file=$env.YAML_PATH::Mandatory repo secret WEBSITE_PAT is not set."
+          "::error file=$env:YAML_PATH::Mandatory repo secret WEBSITE_PAT is not set."
       - name: Checkout SnowSite
         if: ${{ env.IS_WEBSITE_REPO_SET }}
         uses: actions/checkout@v3
