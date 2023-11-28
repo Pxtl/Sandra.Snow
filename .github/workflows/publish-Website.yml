@@ -1,10 +1,10 @@
-name: Publish PxtlCa
+name: Publish Website
 
 on: 
   push:
     paths:
       - 'SnowSite/**'
-      - '.github/workflows/publish-PxtlCa.yml'
+      - '.github/workflows/publish-Website.yml'
   workflow_dispatch:
   workflow_run:
     workflows: ["Build Snow"]
@@ -14,20 +14,18 @@ on:
 jobs:
   publish:
     runs-on: windows-latest
-    strategy:
-      fail-fast: true
     steps:
       - name: Checkout SnowSite
         uses: actions/checkout@v3
         with:
           sparse-checkout: SnowSite
-          path: doc
-      - name: Checkout Pxtl.github.io
+          path: .\doc
+      - name: Checkout Website
         uses: actions/checkout@v3
         with:
-          repository: Pxtl/Pxtl.github.io
-          path: Pxtl.github.io
-          token:  ${{ secrets.PXTLCA_PAT }}
+          repository: ${{ secrets.WEBSITE_REPO }}
+          path: .\website
+          token: ${{ secrets.WEBSITE_PAT }}
       - name: Download Snow artifact
         uses: dawidd6/action-download-artifact@v2
         with:
@@ -36,7 +34,7 @@ jobs:
         shell: pwsh
         run: |
           $ErrorActionPreference = 'Stop'
-          $blogdir = ".\Pxtl.github.io"
+          $blogdir = ".\website"
           $docdir = ".\doc\SnowSite"
 
           "Configuring git..."
