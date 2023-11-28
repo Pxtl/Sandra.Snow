@@ -25,7 +25,7 @@ jobs:
         run: |
           "::warning file=$env.YAML_PATH::Mandatory repo variable WEBSITE_REPO is not set."
       - name: Check WEBSITE_PAT secret
-        if: ${{ !env.IS_WEBSITE_PAT_SET }}
+        if: ${{ env.IS_WEBSITE_REPO_SET && !env.IS_WEBSITE_PAT_SET }}
         shell: pwsh
         run: |
           "::error file=$env.YAML_PATH::Mandatory repo secret WEBSITE_PAT is not set."
