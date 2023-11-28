@@ -34,12 +34,12 @@ jobs:
         shell: pwsh
         run: |
           $ErrorActionPreference = 'Stop'
-          $blogdir = ".\website"
-          $docdir = ".\doc\SnowSite"
+          $blogDir = (mkdir ".\website" -force).FullName
+          $docDir = ".\doc\SnowSite"
 
           "Configuring git..."
 
-          pushd $docdir
+          pushd $docDir
           $lastMessage = git log -1 --pretty=%B | Select-Object -First 1
           $lastUserName = git log -1 --pretty=format:'%an' | Select-Object -First 1
           $lastUserEamil = git log -1 --pretty=format:'%ae' | Select-Object -First 1
@@ -49,8 +49,15 @@ jobs:
           git config --global core.autocrlf false
           popd
 
+          "Overriding output dirs to $blogDir"
+          $configPath = $docDir\Snow\Snow.config.json
+          $config = Get-Content $configPath | ConvertFrom-Json
+          $config.postsOutput = $blogDir
+          $config.pagesOutput = $blogDir
+          $config | ConvertTo-Json | Out-File $configPath
+
           "Running Snow..."
-          & Snow\Snow.exe "config=$docdir\Snow\Snow.config.json"
+          & Snow\Snow.exe "config=$configPath"
 
           Write-Output "Updating $blogdir..."
           cd $blogdir
