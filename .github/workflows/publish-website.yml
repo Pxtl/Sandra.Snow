@@ -23,7 +23,7 @@ jobs:
       - name: Checkout Website
         uses: actions/checkout@v3
         with:
-          repository: ${{ env.WEBSITE_REPO }}
+          repository: ${{ vars.WEBSITE_REPO }}
           path: website
           token: ${{ secrets.WEBSITE_PAT }}
       - name: Download Snow artifact
