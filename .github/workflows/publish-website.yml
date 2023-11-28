@@ -13,8 +13,8 @@ on:
 
 env:
   YAML_PATH: .github/workflows/publish-website.yml
-  IS_WEBSITE_REPO_SET:  ${{ vars.WEBSITE_REPO == null }}
-  
+  IS_WEBSITE_REPO_SET: ${{ vars.WEBSITE_REPO == null }}
+  IS_WEBSITE_PAT_SET: ${{ secrets.WEBSITE_PAT == null }}
 jobs:
   publish:
     runs-on: windows-latest
@@ -25,7 +25,7 @@ jobs:
         run: |
           "::warning file=$env.YAML_PATH::Mandatory repo variable WEBSITE_REPO is not set."
       - name: Check WEBSITE_PAT secret
-        if: ${{ secrets.WEBSITE_PAT == null }}
+        if: ${{ !env.IS_WEBSITE_PAT_SET }}
         shell: pwsh
         run: |
           "::error file=$env.YAML_PATH::Mandatory repo secret WEBSITE_PAT is not set."
