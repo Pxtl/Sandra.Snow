@@ -50,7 +50,7 @@ jobs:
           popd
 
           "Overriding output dirs to $blogDir"
-          $configPath = $docDir\Snow\Snow.config.json
+          $configPath = "$docDir\Snow\Snow.config.json"
           $config = Get-Content $configPath | ConvertFrom-Json
           $config.postsOutput = $blogDir
           $config.pagesOutput = $blogDir
