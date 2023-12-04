@@ -1,46 +1,46 @@
 {
-  "blogTitle" : "Pxtl.ca",
-  "siteUrl": "http://pxtl.ca",
-  "author": "Martin Zarate",
-  "email": "pxtl@hotmail.com",
-  "posts": "_posts",
-  "pages": "_pages",
-  "layouts": "_layouts",
-  "theme": "pxtlca",
-  "postsOutput": "../../../Pxtl.github.io",
-  "pagesOutput": "../../../Pxtl.github.io",
-  "urlFormat": "yyyy/MM/slug",
-  "copyDirectories": [
-    "images",
-    "javascripts",
-    "stylesheets"
-  ],
-  "defaultPostLayout": "post",
-  "processFiles": [{
-    "file": "index.cshtml",
-    "loop": "Posts"
-  },{
-    "file": "category.cshtml",
-    "loop": "Categories"
-  },{
-    "file": "categories.cshtml => category",
-    "title": "Categories"
+    "blogTitle" : "Pxtl.ca",
+    "siteUrl": "http://pxtl.ca",
+    "author": "Martin Zarate",
+    "email": "pxtl@hotmail.com",
+    "posts": "_posts",
+    "pages": "_pages",
+    "layouts": "_layouts",
+    "theme": "pxtlca",
+    "postsOutput": "../../../Pxtl.github.io",
+    "pagesOutput": "../../../Pxtl.github.io",
+    "urlFormat": "yyyy/MM/slug",
+    "copyDirectories": [
+      "images",
+      "javascripts",
+      "stylesheets"
+    ],
+    "defaultPostLayout": "post",
+    "processFiles": [{
+      "file": "index.cshtml",
+      "loop": "Posts"
     },{
-    "file": "archive.cshtml",
-    "title": "Archive"
+      "file": "category.cshtml",
+      "loop": "Categories"
     },{
-    "file": "about.cshtml"
-  },{
-    "file": "drafts.cshtml",
-    "loop": "Drafts"
+      "file": "categories.cshtml => category",
+      "title": "Categories"
+      },{
+      "file": "archive.cshtml",
+      "title": "Archive"
+      },{
+      "file": "about.cshtml"
     },{
-    "file": "feed.xml",
-    "loop": "atom"
-  },{
-    "file": "rss.xml",
-    "loop": "rss"
-  },{
-    "file": "sitemap.xml",
-    "loop": "sitemap"
-  }]
-}
+      "file": "drafts.cshtml",
+      "loop": "Drafts"
+      },{
+      "file": "feed.xml",
+      "loop": "atom"
+    },{
+      "file": "rss.xml",
+      "loop": "rss"
+    },{
+      "file": "sitemap.xml",
+      "loop": "sitemap"
+    }]
+  }

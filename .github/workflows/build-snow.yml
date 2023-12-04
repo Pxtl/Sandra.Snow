@@ -1,4 +1,5 @@
 name: Build Snow
+# compile Sandra.Snow binary in release mode and publish as artifact "Snow"
 
 on:
   push:

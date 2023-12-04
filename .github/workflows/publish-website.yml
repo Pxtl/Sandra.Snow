@@ -1,5 +1,6 @@
 name: Publish Website
 # publish SnowSite to the repo set in vars.WEBSITE_REPO, using the pat defined in secrets.WEBSITE_PAT
+# note that this action overrides the output paths set in the snow config file
 
 on: 
   push:
