@@ -6,7 +6,7 @@ title: Barton Bike Lanes Letter
 ---
 
 So the other day I sent in an e-mail to the cycling office at the City of
-Hamilton (as well as the relevant councillors) to request a cycling accomodation
+Hamilton (as well as the relevant councilors) to request a cycling accommodation
 in my area.  I figured I may as well include the text of the letter here as
 well.
 
@@ -59,7 +59,7 @@ centre near Victoria looks important. I think that's the one egg that would have
 to get broken for this omelette, or else an impractically-short
 left-turning-lane at Victoria could be implemented.
 
-## Streetview of that parking spot:
+## Street-view of that parking spot:
 
 https://www.google.com/maps/@43.261108,-79.8538117,3a,75y,173.12h,71.11t/data=!3m6!1e1!3m4!1sFmFDOm3ipQTiJLkpQzPfjQ!2e0!7i16384!8i8192?entry=ttu
 
@@ -81,7 +81,7 @@ weird and tricky.
 
 # Alternate Approach that does not eliminate parking at the Pharmacy + Ortho
 
-By moving the centreline further North at Victoria, the parking can be
+By moving the centre-line further North at Victoria, the parking can be
 preserved!
 
 ![Barton between Wellington and Victoria with Bike Lanes (alternate layout)](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes-2.jpg)
@@ -92,7 +92,7 @@ So here we can have our cake and eat it too.
 
 - The westbound bus stop now blocks westbound traffic (and there's enough
   left-turning traffic on Barton that squeezing past the bus into oncoming
-  traffic isn't really an option.
+  traffic isn't really an option).
 
 - The travel lanes no longer fully align on the far side of the intersection.
 
@@ -109,7 +109,7 @@ cyclists are supposed to be here and allowed.
 
 I hope you'll agree, these seem like pretty quick wins - at the cost of 1 or 2
 parking spots and some paint, a nice little cycling connection to the hospital's
-front entrance and sobi rack and adjacent bike-track could be added to Barton.
+front entrance and SoBi rack and adjacent bike-track could be added to Barton.
 No loss of automotive travel lanes at all.
 
 Thanks for your time.
