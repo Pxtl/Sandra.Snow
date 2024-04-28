@@ -1,6 +1,6 @@
 #.SYNOPSIS
 # Simple 1-step publish script, but has many assumptions.  See description.
-
+#
 #.DESCRIPTION
 # This publish is a simple local convenience measure for publishing SnowSite
 # from localhost to your gitrepo, assuming you've customized SnowSite to become
@@ -31,18 +31,19 @@ if (-not $configPath) {
     $configPath = [IO.FileInfo](Resolve-Path ".\SnowSite\Snow\Snow.config.json").Path
 }
 $configDirPath = Split-Path $configPath -Parent
+$config = Get-Content $configPath | ConvertFrom-Json
 $outputPath = Resolve-Path (Join-Path $configDirPath $config.postsOutput)
 
 & src\Snow\bin\Debug\Snow config=$configPath
 
 #region commits
 git add .
-git commit -m $message
+git commit -m $commitMessage
 git push
 
 Push-Location $outputPath
     git add .
-    git commit -m $message
+    git commit -m $commitMessage
     git push
 Pop-Location
 #endregion commits
