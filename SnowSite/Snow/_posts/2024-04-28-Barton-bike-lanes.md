@@ -2,13 +2,15 @@
 published: published 
 layout: post 
 category: HamOnt
-title: Bartin Bike Lanes Letter
+title: Barton Bike Lanes Letter
 ---
 
 So the other day I sent in an e-mail to the cycling office at the City of
 Hamilton (as well as the relevant councillors) to request a cycling accomodation
 in my area.  I figured I may as well include the text of the letter here as
 well.
+
+![Barton between Wellington and Victoria](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general.png)
 
 <!--excerpt-->
 
@@ -28,7 +30,7 @@ between Wellington and Victoria.
 
 # Barton between Wellington and Victoria
 
-![Barton between Wellington and Victoria](images/2024-04-28-Barton-bike-lanes/barton-at-the-general.png)
+![Barton between Wellington and Victoria](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general.png)
 
 google maps:
 https://www.google.com/maps/@43.2611841,-79.8547088,237a,35y,18.19h,1.9t/data=!3m1!1e3?entry=ttu
@@ -47,7 +49,7 @@ parking on Barton between Wellington and Victoria
 by collapsing the unused centre turning-lane, bike lanes can be added without
 impacting automotive traffic flow at all.
 
-![Barton between Wellington and Victoria with Bike Lanes](images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes.jpg)
+![Barton between Wellington and Victoria with Bike Lanes](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes.jpg)
 
 # The Downside
 
@@ -82,7 +84,7 @@ weird and tricky.
 By moving the centreline further North at Victoria, the parking can be
 preserved!
 
-![Barton between Wellington and Victoria with Bike Lanes (alternate layout)](images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes-2.jpg)
+![Barton between Wellington and Victoria with Bike Lanes (alternate layout)](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes-2.jpg)
 
 So here we can have our cake and eat it too.
 
