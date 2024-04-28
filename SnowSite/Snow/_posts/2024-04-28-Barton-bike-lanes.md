@@ -30,10 +30,9 @@ between Wellington and Victoria.
 
 # Barton between Wellington and Victoria
 
-![Barton between Wellington and Victoria](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general.png)
+[![Barton between Wellington and Victoria](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general.png)](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general.png)
 
-google maps:
-https://www.google.com/maps/@43.2611841,-79.8547088,237a,35y,18.19h,1.9t/data=!3m1!1e3?entry=ttu
+[google maps view](https://www.google.com/maps/@43.2611841,-79.8547088,237a,35y,18.19h,1.9t/data=!3m1!1e3?entry=ttu)
 
 There, Barton is 5 lanes wide with parked cars on both sides, and most of the
 middle is a blocked-out unused space, since it's a left-turn lane with no
@@ -49,7 +48,7 @@ parking on Barton between Wellington and Victoria
 by collapsing the unused centre turning-lane, bike lanes can be added without
 impacting automotive traffic flow at all.
 
-![Barton between Wellington and Victoria with Bike Lanes](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes.jpg)
+[![Barton between Wellington and Victoria with Bike Lanes](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes.jpg)](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes.jpg)
 
 # The Downside
 
@@ -59,9 +58,7 @@ centre near Victoria looks important. I think that's the one egg that would have
 to get broken for this omelette, or else an impractically-short
 left-turning-lane at Victoria could be implemented.
 
-## Street-view of that parking spot:
-
-https://www.google.com/maps/@43.261108,-79.8538117,3a,75y,173.12h,71.11t/data=!3m6!1e1!3m4!1sFmFDOm3ipQTiJLkpQzPfjQ!2e0!7i16384!8i8192?entry=ttu
+[Street-view of that parking spot](https://www.google.com/maps/@43.261108,-79.8538117,3a,75y,173.12h,71.11t/data=!3m6!1e1!3m4!1sFmFDOm3ipQTiJLkpQzPfjQ!2e0!7i16384!8i8192?entry=ttu)
 
 # The main reason I want this: The SoBi rack
 
@@ -84,7 +81,7 @@ weird and tricky.
 By moving the centre-line further North at Victoria, the parking can be
 preserved!
 
-![Barton between Wellington and Victoria with Bike Lanes (alternate layout)](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes-2.jpg)
+[![Barton between Wellington and Victoria with Bike Lanes (alternate layout)](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes-2.jpg)](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes-2.jpg)
 
 So here we can have our cake and eat it too.
 
