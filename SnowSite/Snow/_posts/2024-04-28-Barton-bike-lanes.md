@@ -42,7 +42,7 @@ ideal.
 
 The fix should be obvious, I think:
 
-Proposal to add bike lanes without losing any travel lanes and minimal impact on
+# Proposal to add bike lanes without losing any travel lanes and minimal impact on
 parking on Barton between Wellington and Victoria
 
 by collapsing the unused centre turning-lane, bike lanes can be added without
@@ -50,7 +50,7 @@ impacting automotive traffic flow at all.
 
 [![Barton between Wellington and Victoria with Bike Lanes](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes.jpg)](/images/2024-04-28-Barton-bike-lanes/barton-at-the-general-bikelanes.jpg)
 
-# The Downside
+## The Downside
 
 Unfortunately two parking spots would need to be lost (marked in red X's in the
 above image) , and I think the one in front of the Pharmacy & the Orthotics
@@ -60,7 +60,7 @@ left-turning-lane at Victoria could be implemented.
 
 [Street-view of that parking spot](https://www.google.com/maps/@43.261108,-79.8538117,3a,75y,173.12h,71.11t/data=!3m6!1e1!3m4!1sFmFDOm3ipQTiJLkpQzPfjQ!2e0!7i16384!8i8192?entry=ttu)
 
-# The main reason I want this: The SoBi rack
+## The main reason I want this: The SoBi rack
 
 The HGH SoBi rack at Barton and Victoria is very handy. On days when the weather
 is bad in only the morning or evening commute, I can use that SoBi rack for the
