@@ -36,14 +36,14 @@ jobs:
           
       - name: Checkout SnowSite
         if: ${{ env.IS_WEBSITE_REPO_SET == 'true' }}
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           sparse-checkout: SnowSite
           path: doc
           
       - name: Checkout Website
         if: ${{ env.IS_WEBSITE_REPO_SET == 'true' }}
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: ${{ vars.WEBSITE_REPO }}
           path: website
@@ -51,7 +51,7 @@ jobs:
           
       - name: Download Snow artifact
         if: ${{ env.IS_WEBSITE_REPO_SET == 'true' }}
-        uses: dawidd6/action-download-artifact@v2
+        uses: dawidd6/action-download-artifact@v6
         with:
           workflow: build-snow.yml
           
