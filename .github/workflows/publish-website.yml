@@ -51,7 +51,7 @@ jobs:
           
       - name: Download Snow artifact
         if: ${{ env.IS_WEBSITE_REPO_SET == 'true' }}
-        uses: dawidd6/action-download-artifact@v6
+        uses: dawidd6/action-download-artifact@v16
         with:
           workflow: build-snow.yml
           
