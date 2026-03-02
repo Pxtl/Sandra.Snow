@@ -54,6 +54,7 @@ jobs:
         uses: dawidd6/action-download-artifact@v16
         with:
           workflow: build-snow.yml
+          name: Snow
           
       - name: run Snow
         if: ${{ env.IS_WEBSITE_REPO_SET == 'true' }}
