@@ -55,6 +55,7 @@ jobs:
         with:
           workflow: build-snow.yml
           name: Snow
+          path: Snow
           
       - name: run Snow
         if: ${{ env.IS_WEBSITE_REPO_SET == 'true' }}
